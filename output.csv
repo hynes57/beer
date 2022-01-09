@@ -1,0 +1,549 @@
+brewery_id,brewery_name,country_name,brewery_in_production,is_independent,beer_count,brewery_type,brewery_type_id,brewery_address,brewery_city,brewery_state,brewery_lat,brewery_lng,brewery_rating_count,brewery_rating_score,brewery_age_on_service,CARDINAL,DATE,EVENT,FAC,GPE,LANGUAGE,LAW,LOC,MONEY,NORP,ORDINAL,ORG,PERCENT,PERSON,PRODUCT,QUANTITY,TIME,WORK_OF_ART
+1,(512) Brewing Company,United States,0,1,143,Micro Brewery,2,407 Radam Ln,Austin,TX,30.2236,-97.7697,180441,3.811,4021.343773148148,2,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+10,Abita Brewing Company,United States,0,1,182,Regional Brewery,11,21084 Highway 36,Abita Springs,LA,30.4821,-90.0552,1443805,3.488,4032.505914351852,0,4,0,0,2,0,0,0,1,0,0,1,0,2,0,2,0,0
+101,Bellows Brew Crew,United States,0,1,7,Home Brewery,5,,,,0,0,2,0,3931.250972222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10104,Third Base Brewery,United States,0,1,210,Brew Pub,4,500 Blairs Ferry Road NE,Cedar Rapids,IA,42.0352,-91.6398,15859,3.775,3945.2708217592594,0,1,1,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0
+10147,Bulmers Cider,England,0,0,78,Cidery,8,"Cider Mills, Plough Lane",Hereford,Herefordshire,52.0594,-2.72758,308949,3.363,4025.053171296296,1,4,0,0,1,0,0,2,0,0,2,2,1,4,0,0,0,0
+102,Bent River Brewing Company,United States,0,1,267,Micro Brewery,2,1413 5th Ave,Moline,IL,41.5059,-90.517,111217,3.567,3962.4497453703702,0,2,0,0,4,0,0,1,0,0,0,2,0,0,0,0,0,0
+10220,Copper Kettle Brewing Company (Colorado),United States,0,1,514,Micro Brewery,2,1338 South Valentina St.Unit #100,Denver,CO,39.6924,-104.89,79685,3.851,3928.7580324074074,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,Biddy Early Brewery,Ireland,1,1,1,Micro Brewery,2,,Inagh,Munster,52.877,-9.17676,21,3.55,3890.2177199074076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Royal Swinkels Family Brewers,Netherlands,0,1,88,Macro Brewery,1,De Stater 1,Lieshout,Noord-Brabant,51.5171,5.60823,504743,2.903,4012.465821759259,4,1,0,1,4,0,0,0,1,0,1,3,2,2,0,0,0,0
+10915,Ayinger Privatbrauerei,Germany,0,1,19,Micro Brewery,2,Münchener Straße 21,Aying,Bayern,47.9722,11.7738,608782,3.713,4029.404351851852,0,2,0,0,1,0,0,0,0,0,0,1,0,1,2,0,0,1
+11,Adnams,England,0,1,71,Micro Brewery,2,East Green,Southwold,Suffolk,52.3271,1.68066,328500,3.408,4022.8028125,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+110,Bierbrouwerij De Koningshoeven,Netherlands,0,0,13,Macro Brewery,1,Eindhovenseweg 3,Berkel-Enschot,Noord-Brabant,51.5435,5.1288,1169904,3.746,4012.5211458333333,0,2,0,0,0,0,0,0,0,1,0,6,0,1,0,0,0,2
+111,Speciaalbierbrouwerij St. Christoffel,Netherlands,0,1,15,Micro Brewery,2,Rijnesteinstraat 1,Breda,Noord-Brabant,51.5698,4.80558,73329,3.421,3976.4133217592594,1,2,1,0,0,0,0,0,0,0,0,4,0,9,1,0,0,0
+112,Big Bang Brewery,United States,1,1,1,Micro Brewery,2,650 Fifth Street #403,San Francisco,CA,37.7758,-122.398,20,2.736,3593.3175925925925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11253,Pints Brewery & Sports Bar (Colorado Belle Hotel & Casino),United States,0,1,68,Brew Pub,4,2100 S. Casino Drive,Laughlin,NV,35.1584,-114.573,4616,3.302,3814.787638888889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Big Boss Brewing Company,United States,0,1,332,Micro Brewery,2,1249 Wicker Dr,Raleigh,NC,35.8104,-78.6179,128242,3.606,4032.6180671296297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,Big Buck Brewery,United States,0,1,100,Micro Brewery,2,550 South Wisconsin Ave,Gaylord,MI,45.0224,-84.6825,10329,3.563,3999.3497569444444,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+116,Big Dog's Brewing Company,United States,0,1,264,Micro Brewery,2,4547 N. Rancho Drive,Las Vegas,NV,36.2427,-115.236,64253,3.604,3992.5500231481483,0,3,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0
+11715,Privatbrauerei Herrenhausen,Germany,0,1,14,Micro Brewery,2,Herrenhäuser Straße 83-99,Hannover,Niedersachsen,52.3935,9.68141,10168,3.242,3779.4947800925925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118875,Dry Gulch Trading Co.,United States,0,1,32,Home Brewery,5,,,,0,0,82,0,2755.3957175925925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,BRB Brewing,Canada,1,1,0,Micro Brewery,2,180-14200 Entertainment Blvd,Richmond,BC,49.1344,-123.065,1819,3.322,3955.479027777778,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Big Rock Brewery,Canada,0,1,484,Regional Brewery,11,5555 - 76 Avenue SE,Calgary,AB,50.9847,-113.956,151468,3.36,3993.539641203704,0,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0
+123,Big Time Brewing Company,United States,0,1,328,Micro Brewery,2,4133 University Way NE,Seattle,WA,47.6576,-122.313,20176,3.649,4020.9361458333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Bill's Tavern & Brewhouse,United States,0,1,108,Micro Brewery,2,188 North Hemlock Street,Cannon Beach,OR,45.8981,-123.961,9134,3.513,3937.517662037037,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+127,Birra Moretti,Italy,0,0,29,Macro Brewery,1,Viale Venezia 9,Udine,Friuli Venezia Giulia,46.0601,13.2276,499530,3.189,4022.6712152777777,1,4,0,0,1,0,0,0,0,0,1,9,0,2,0,0,0,0
+128,BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendente Italian Farm Brewery,Italy,0,1,89,Micro Brewery,2,"Piazza 5 Luglio, 15",Piozzo,Piemonte,44.5154,7.89193,218334,3.645,3994.2141550925926,0,4,0,2,5,0,0,0,0,1,0,7,0,11,0,0,0,2
+1298,Two Brothers Brewing Company,United States,0,1,729,Regional Brewery,11,30w315 Calumet Ave,Warrenville,IL,41.8243,-88.2123,682664,3.648,4028.68162037037,5,4,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0
+13,Agassiz Brewing,Canada,1,1,0,Micro Brewery,2,,Winnipeg,MB,13.0199,77.7624,3,0,4001.447199074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Bison Brewing Co.,United States,0,1,35,Micro Brewery,2,2598 Telegraph Avenue,Berkeley,CA,37.8634,-122.259,46480,3.416,4012.7062847222223,1,1,0,1,0,0,0,0,0,1,0,3,2,0,0,0,0,0
+131,Bitburger Brauerei,Germany,0,1,36,Regional Brewery,11,Römermauer 3,Bitburg,Rheinland-Pfalz,49.9746,6.52166,335846,3.151,4024.893460648148,1,0,0,0,1,0,0,0,0,0,0,2,0,9,0,0,0,0
+13256,Andrews Brewing Company,United States,1,1,0,Micro Brewery,2,4975 High St.,Lincolnville,ME,44.3026,-69.1429,2216,3.377,3932.5198958333335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Black Sheep,England,0,1,149,Micro Brewery,2,Wellgarth,Masham,North Yorkshire,54.2246,-1.65813,235164,3.382,4030.4314699074075,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1348,Eagle Brewery (formerly Charles Wells),England,0,0,148,Macro Brewery,1,Havelock Street,Bedford,Bedford,52.1324,-0.481922,784807,3.493,4022.014178240741,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0
+136,Blacksburg Brewing Company,United States,1,1,0,Micro Brewery,2,PO Box 315,Blacksburg,VA,37.2296,-80.4139,5,0,3249.0202199074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1363,Wild Goose Brewery,United States,0,1,22,Micro Brewery,2,930 Port Street,Easton,MD,38.7681,-76.0935,1839,3.424,3983.761238425926,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+137,Blackstone Brewing Company,United States,0,1,76,Micro Brewery,2,2312 Clifton Ave.,Nashville,TN,36.152,-86.7989,111688,3.662,3946.4564699074076,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+138,Blicks Brewing,United States,1,1,0,Nano Brewery,3,625 Paonia Street,Colorado Springs,CO,38.8412,-104.717,1,0,3592.8265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13967,Kalnapilis Brewery,Lithuania,0,0,126,Macro Brewery,1,Taikos al. 1,Panevezys,Panevėžio apskritis,55.7377,24.3538,28957,2.955,3740.795451388889,0,2,0,0,0,0,0,0,0,3,0,1,0,0,1,0,0,0
+140,Bloomington Brewing Company,United States,0,1,164,Micro Brewery,2,514 E Kirkwood Ave.,Bloomington,IN,39.1716,-86.5099,36515,3.65,3967.6369791666666,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+14089,Hansa Borg Bryggerier,Norway,0,1,69,Macro Brewery,1,Kokstaddalen 3,Bergen,Hordaland,60.2948,5.26154,408187,3.038,3980.2283564814816,0,0,0,0,1,0,0,0,0,0,0,4,0,11,0,0,0,1
+141,BluCreek Brewing,United States,0,1,3,Micro Brewery,2,2605 S Stoughton Rd,Madison,WI,43.0598,-89.3085,79,2.819,3909.740324074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,Blue Cat Brew Pub,United States,1,1,0,Brew Pub,4,113 Eighteenth St,Rock Island,IL,41.5117,-90.5746,4365,3.461,4010.5422800925926,4,2,0,0,1,0,0,0,0,0,1,1,0,2,0,0,0,0
+143,Blue Corn Cafe and Brewery,United States,0,1,254,Micro Brewery,2,4056 Cerrillos Rd.,Santa Fe,NM,35.6391,-106.016,14540,3.614,3933.2095833333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1432,Brasserie Castelain,France,0,1,80,Micro Brewery,2,13 Rue Pasteur,Bénifontaine,Hauts-de-France,50.4919,3.0007,80673,3.288,4021.8616087962964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Blue Point Brewing Company,United States,0,0,301,Macro Brewery,1,161 River Avenue,Patchogue,NY,40.7591,-73.0215,663162,3.517,4031.8568171296297,1,2,1,0,1,0,0,1,0,0,0,3,0,1,0,0,0,0
+146730,Brasserie BB Lomè (BGI),Togo,0,1,15,Macro Brewery,1,"169, Agoenyivé Route d'Atakpamé, PK 10",Lomé,Lomé,6.24516,1.18285,605,2.862,2633.6506481481483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Bobcat Cafe & Brewery (Vermont),United States,0,1,61,Brew Pub,4,5 Main St,Bristol,VT,44.1329,-73.0781,3182,3.454,3867.7575462962964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,Boddington's Brewery,England,0,0,7,Macro Brewery,1,Cuerdale Ln,Shamlesbury,Lancashire,53.7622,-2.6113,156633,3.352,4031.497962962963,5,6,0,0,2,0,0,0,0,0,1,3,0,1,0,2,1,0
+1486,Mt. Carmel Brewing Company,United States,0,1,259,Micro Brewery,2,4362 Mt Carmel Tobasco Road,Cincinnati,OH,39.0935,-84.2991,64973,3.602,4022.7664583333335,0,3,0,0,1,0,0,0,0,0,0,3,0,2,0,0,0,0
+150,Bonaventure Brewing,United States,0,1,22,Micro Brewery,2,404 S Figueroa St # 418a,Los Angeles,CA,34.0527,-118.256,2358,3.333,3924.759224537037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1506,Cambridge Brewing Company,United States,0,1,507,Micro Brewery,2,"1 Kendall Square, Bldg 100",Cambridge,MA,42.3663,-71.0906,182687,3.693,4021.9108912037036,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+152,Boon Rawd Brewery,Thailand,0,1,20,Macro Brewery,1,999 Samsen Road Dusit,Bangkok,กรุงเทพมหานคร,13.7924,100.517,261750,2.976,4023.264525462963,3,0,0,0,1,0,0,0,0,2,1,6,0,0,0,0,0,2
+153,Bootleggers Restaurant and Brewery,United States,0,1,13,Micro Brewery,2,101 S Madison Ave,Aurora,MO,36.9753,-93.7209,137,3.399,4022.739201388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15591,Brasserie Artisanale des Vosges,France,0,1,37,Micro Brewery,2,21 Rue du Velodrome,Saint-Etienne-lès-Remiremont,Vosges,48.0121,6.60739,8413,2.99,3694.2303935185187,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+156,Browar Witnica,Poland,0,1,133,Regional Brewery,11,ul. Marii Konopnickiej 1,Witnica,województwo lubuskie,52.6735,14.9004,25614,3.234,4009.3375462962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,Boston Beer Company,United States,0,1,948,Regional Brewery,11,30 Germania St,Boston,MA,42.3144,-71.1034,5477345,3.459,4043.680648148148,2,3,1,0,1,0,0,0,0,2,1,3,0,4,0,0,0,1
+158,BEERWORKS Brewing Co.,United States,1,1,0,Brew Pub,4,61 Brookline Avenue,Boston,MA,42.347,-71.0988,142246,3.536,4014.5990046296297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1582,Berliner-Kindl-Schultheiss-Brauerei,Germany,0,0,44,Macro Brewery,1,Indira-Gandhi-Straße 66,Berlin,Berlin,52.5421,13.471,180915,3.021,4014.8153125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Alameda Brewing Co.,United States,1,1,0,Micro Brewery,2,4765 NE Fremont St,Portland,OR,45.5483,-122.614,58654,3.606,3989.4258912037035,0,1,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0
+160,Boulder Beer,United States,0,1,471,Contract Brewery,10,,,,0,0,618207,3.661,4024.623032407407,0,1,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,1
+1601,Trader Joe's (JosephsBrau),United States,0,1,34,Micro Brewery,2,357 East Taylor Street,San Jose,CA,37.3541,-121.893,166323,3.202,4021.5061805555556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Brasal-Brasserie Allemande,Canada,1,1,2,Micro Brewery,2,8477 Rue Cordner,LaSalle,QC,45.4346,-73.6379,16,3.313,3933.073310185185,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,Brasserie Artisanale de Rulles,Belgium,0,1,16,Micro Brewery,2,Rue Maurice Grévisse 36,Rulles,Wallonie,49.7184,5.55765,52423,3.56,3975.5103125,2,2,0,0,2,0,0,0,0,0,1,1,1,6,0,0,0,1
+1650,Abbaye Notre-Dame de Saint-Rémy,Belgium,0,1,4,Regional Brewery,11,Rue de l'Abbaye 8,Rochefort,Wallonie,50.1988,5.22693,567603,3.938,4008.0318981481482,3,2,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,1
+166,Brouwerij Clarysse,Belgium,0,1,1,Micro Brewery,2,Bedrijvenpark Coupure 12,Oudenaarde,Vlaanderen,50.8388,3.58847,945,3.167,3591.126909722222,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,Duvel Moortgat,Belgium,0,1,39,Regional Brewery,11,Breendonk-Dorp 58-66,Puurs,Vlaanderen,51.0429,4.32604,1184731,3.617,4004.294513888889,4,4,0,0,3,0,0,1,0,0,0,0,0,9,0,0,0,0
+1674,Brasserie Dieu du Ciel!,Canada,0,1,563,Micro Brewery,2,29 Laurier West,Montreal,QC,45.5225,-73.5931,539139,3.893,4022.625023148148,0,0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,0
+16764,Arcobräu Gräfliches Brauhaus,Germany,0,1,34,Micro Brewery,2,Schloßallee 1,Moos,Bayern,48.7463,12.9601,77933,3.346,3999.816400462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16791,Affligem Brouwerij,Belgium,0,0,36,Macro Brewery,1,Ringlaan 18,Opwijk,Vlaanderen,50.9709,4.1914,595326,3.51,4032.6726157407406,0,3,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0
+168,Brasserie Scassenes,Belgium,0,1,46,Micro Brewery,2,Rue de Restaumont 118,Écaussinnes,Wallonie,50.558,4.13415,9502,3.097,3998.23337962963,1,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+169,Brasserie d'Orval,Belgium,0,1,2,Regional Brewery,11,Orval 2,Villers-devant-Orval,Luxembourg,49.6368,5.34725,274270,3.77,3996.481388888889,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0
+17,Alaskan Brewing Co.,United States,0,1,290,Regional Brewery,11,5429 Shaune Drive,Juneau,AK,58.3568,-134.489,800392,3.634,4017.3691319444442,0,1,1,0,3,0,0,0,0,3,1,3,0,0,0,0,0,0
+170,Brasserie de Blaugies,Belgium,0,1,26,Micro Brewery,2,Rue de la Frontière 435,Blaugies,Wallonie,50.3589,3.84314,66044,3.73,3986.5612847222224,1,1,0,0,2,0,0,0,0,0,1,2,0,8,0,0,0,1
+171,Brasserie de Brunehaut,Belgium,0,1,28,Micro Brewery,2,Rue des Panneries 17,Brunehaut,Wallonie,50.51,3.38628,65632,3.263,3967.446689814815,2,2,0,0,0,0,0,1,0,0,0,1,0,4,0,0,0,1
+172,Brasserie de Cazeau,Belgium,0,1,22,Micro Brewery,2,Rue de Cazeau 67,Templeuve,Wallonie,50.6341,3.27235,20600,3.481,3947.376412037037,2,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0
+174,Brasserie de l'Abbaye des Rocs,Belgium,0,1,38,Micro Brewery,2,Chaussée Brunehault 37,Montignies-sur-Roc,Wallonie,50.3702,3.72612,64207,3.564,3979.7810185185185,0,1,0,0,2,0,0,0,0,1,0,1,0,3,0,0,0,0
+1741,Belize Brewing Company,Belize,0,1,18,Micro Brewery,2,One King Street,Ladyville,Belize District,17.5579,-88.2854,21908,3.161,4000.5858564814816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Brasserie de l'Abbaye du Val-Dieu,Belgium,0,1,46,Micro Brewery,2,Val Dieu 225,Aubel,Wallonie,50.704,5.82173,224330,3.602,4002.525752314815,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+176,Brasserie de la Senne,Belgium,0,1,86,Micro Brewery,2,Drève Anna Bochdreef 19-21,Brussels,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,50.8678,4.34943,300224,3.47,4025.556736111111,1,0,0,0,2,0,0,0,0,0,0,1,0,2,0,0,0,0
+1768,Brau Union Österreich,Austria,0,0,61,Macro Brewery,1,Poschacherstraße 35,Linz,Oberösterreich,48.2865,14.3085,93725,3.447,4019.796377314815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Brasserie 3 MONTS,France,0,1,27,Regional Brewery,11,121 rue de la Chapelle,Saint-Sylvestre-Cappel,Hauts-de-France,50.7778,2.55464,58903,3.46,3995.8415046296295,9,6,0,1,3,0,0,0,0,5,0,5,0,2,2,0,0,0
+178,Brasserie de Silenrieux,Belgium,0,1,58,Micro Brewery,2,Rue Nou Pré,Silenrieux,Wallonie,50.2235,4.41256,9251,3.187,3977.121134259259,1,1,0,0,9,0,0,1,0,1,1,3,0,1,0,0,0,0
+17885,Gold Crown Brewery,Canada,0,1,17,Micro Brewery,2,71 King St N,Waterloo,ON,43.4674,-80.5231,827,3.136,3790.149976851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,Brasserie de Silly,Belgium,0,1,73,Micro Brewery,2,Rue Ville Basse 2,Silly,Wallonie,50.6494,3.92435,174415,3.48,3981.5948726851852,0,2,0,0,2,0,0,0,0,0,0,2,0,2,0,1,0,0
+180,Brasserie de Tahiti,French Polynesia,0,0,28,Macro Brewery,1,Siege social place Notre Dame,Papeete,Tahiti,-17.5402,-149.568,18455,3.012,3967.516666666667,1,4,0,1,2,0,0,0,0,0,0,2,0,8,0,0,0,0
+181,Brasserie de Vervifontaine,Belgium,1,1,0,Micro Brewery,2,Vervifontaine 100,Jalhay,Wallonie,50.5693,5.93279,21,0,3083.4952083333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,Brasserie des Cimes,France,0,1,27,Micro Brewery,2,152 Avenue St Simond,Aix les Bains,Savoie,45.707,5.91584,13540,3.197,3897.953101851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1837,Brau Brothers Brewing Company,United States,0,1,252,Micro Brewery,2,1010 E Southview Drive,Marshall,MN,44.4366,-95.778,79164,3.567,3991.5892939814817,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Brasserie du Bocq,Belgium,0,0,95,Micro Brewery,2,Rue de la Brasserie 4,Purnode,Wallonie,50.3113,4.94378,298048,3.434,4035.472337962963,0,1,0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,0
+187908,Brouwerij Strubbe,Belgium,0,1,157,Regional Brewery,11,Markt 1,Ichtegem,Vlaanderen,51.0922,3.00932,87689,3.314,2425.940949074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Brasserie Dubuisson,Belgium,0,1,27,Regional Brewery,11,Chaussée de Mons 28,Pipaix,Wallonie,50.5765,3.5575,340456,3.574,4008.199212962963,1,1,0,0,1,0,0,1,0,0,1,0,0,4,0,0,0,1
+189,Brasserie Dupont,Belgium,0,1,41,Micro Brewery,2,Rue Basse 5,Tourpes,Wallonie,50.5706,3.65188,483238,3.663,4043.6715972222223,0,4,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+19,Aldaris,Latvia,0,0,67,Macro Brewery,1,"Tvaika iela 44, LV-1005",Riga,Vidzeme,57.0047,24.1202,44376,3.057,3977.5646180555555,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,Brasserie Duyck,France,0,1,67,Micro Brewery,2,113 Route Nationale,Jenlain,Hauts-de-France,50.3144,3.62655,54061,3.188,4028.8434722222223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,Brasserie des Légendes,Belgium,0,1,83,Micro Brewery,2,Rue du Castel 19,Irchonwelz,Wallonie,50.6206,3.75932,218587,3.455,3959.9261805555557,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+193,Brasserie Grain d'Orge,Belgium,0,1,254,Micro Brewery,2,Rue Laschet 3,Hombourg,Wallonie,50.7285,5.91427,57635,3.343,3928.942453703704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19379,Barfüßer Hausbrauerei Nürnberg,Germany,0,1,2,Brew Pub,4,Hallplatz 2,Nürnberg,,49.4494,11.0796,3561,3.479,3617.817384259259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,Brasserie La Binchoise,Belgium,0,1,119,Micro Brewery,2,Faubourg Saint-Paul 38,Binche,Wallonie,50.4082,4.16637,100462,3.188,3997.138252314815,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+195,Brasserie Caracole,Belgium,0,1,82,Micro Brewery,2,Côte Marie-Thérèse 86,Falmignoul,Wallonie,50.2031,4.89219,67150,3.448,4006.544016203704,2,0,0,0,8,0,0,1,0,1,1,4,0,1,2,0,0,0
+19503,Brauhaus Joh. Albrecht,Germany,0,1,39,Micro Brewery,2,Adolphsbrücke 7,Hamburg,,53.5504,9.98984,9017,3.442,3994.4005092592593,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Brasserie La Choulette,France,0,1,97,Micro Brewery,2,Rue des Écoles 16,Hordain,Hauts-de-France,50.2604,3.31302,25024,3.388,3998.110821759259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,Brasserie Lefebvre,Belgium,0,1,75,Micro Brewery,2,Chemin du Croly 54,Quenast,Wallonie,50.6745,4.15217,488882,3.45,4011.881226851852,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+19773,Bulldog Brewing Co. (Indiana),United States,0,1,71,Micro Brewery,2,1409 119th Street,Whiting,IN,41.6794,-87.4951,5650,3.429,3607.7766550925926,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0
+198,Brasserie McAuslan (St-Ambroise),Canada,0,1,119,Regional Brewery,11,5080 St-Ambroise,Montreal,QC,45.5017,-73.5673,162985,3.517,3991.5820833333332,0,2,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0
+199,Brasserie Pietra,France,0,1,25,Micro Brewery,2,Route de La Marana,Furiani,Corse,42.6106,9.44245,50806,3.166,3946.722037037037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Ale Asylum,United States,0,1,71,Regional Brewery,11,2002 Pankratz St.,Madison,WI,43.1203,-89.354,346161,3.708,4021.444328703704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,Brasserie Thiriez,France,0,1,116,Micro Brewery,2,22 Rue de Wormhout,Esquelbecq,Hauts-de-France,50.8851,2.43273,30000,3.499,3986.8922569444444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,Brasserie de l'Abbaye d'Aulne,Belgium,0,1,34,Micro Brewery,2,Rue Vandervelde 273,Gozée,Wallonie,50.3669,4.32895,43702,3.316,3955.233298611111,0,6,0,0,2,0,0,0,0,4,1,4,0,1,0,0,0,0
+2014,Blitz-Weinhard Brewing Company,United States,0,0,7,Macro Brewery,1,3801 McIntyre Ct,Golden,Co,39.7698,-105.176,145,3.193,3994.3942592592593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Brasserie Cantillon,Belgium,0,1,98,Micro Brewery,2,Rue Gheudestraat 56,Anderlecht,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,50.8416,4.33562,765379,4.349,4001.42681712963,0,1,0,0,3,0,0,0,0,0,0,5,0,2,0,0,0,0
+203,Kronenbourg Brewery,France,0,0,145,Macro Brewery,1,Boulevard de l’Europe,Obernai,Grand-Est,48.466,7.49557,624171,3.248,4029.2551388888887,0,3,0,0,4,0,0,0,0,1,1,1,0,2,0,0,0,0
+2036,Hale's Ales Brewery and Taproom,United States,0,1,319,Brew Pub,4,4301 Leary Way NW,Seattle,WA,47.6591,-122.365,83330,3.583,4022.760613425926,0,3,1,0,4,1,0,0,0,0,2,2,0,5,0,0,0,1
+2038,Atlanta Brewing Company,United States,0,1,629,Micro Brewery,2,2323 Defoor Hills Rd,Atlanta,GA,33.8184,-84.4346,153233,3.655,4003.639548611111,1,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,Tettnanger Kronenbrauerei,Germany,0,1,15,Micro Brewery,2,Bärenplatz 7,Bechlingen,Baden-Württemberg,47.6715,9.58877,2247,3.374,4021.6593518518516,2,0,0,0,0,0,0,1,0,0,0,2,1,5,2,0,0,1
+206522,Dublin Brewer,Ireland,0,1,2,Contract Brewery,10,8 Parliament Street,Dublin,Co. Dublin,53.3446,-6.26722,521,3.534,2325.055625,3,7,0,1,2,0,0,0,0,0,2,3,4,6,0,0,0,0
+207,Brauerei VELTINS,Germany,0,1,28,Regional Brewery,11,An der Streue,Meschede,Nordrhein-Westfalen,51.3065,8.12573,269867,3.198,3990.838298611111,1,2,0,0,4,0,0,1,1,1,1,7,0,16,1,0,0,0
+2071,Caledonian Brewing Co.,Scotland,0,0,77,Macro Brewery,1,42 Slateford Rd,Edinburgh,"City of Edinburgh,Midlothian",55.9357,-3.23118,207023,3.205,4018.8025347222224,0,2,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0
+208,Privatbrauerei Fässla Bamberg ,Germany,0,1,11,Micro Brewery,2,Obere Königstraße 21,Bamberg,Bayern,49.8972,10.8928,16468,3.443,4005.42380787037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Brauerei Gebr. Maisel,Germany,0,1,54,Regional Brewery,11,Hindenburgstraße 9,Bayreuth,Bayern,49.9477,11.5659,309772,3.537,3919.4998958333335,1,6,0,0,1,0,0,0,0,1,1,7,0,5,1,0,0,0
+2101,Great Basin Brewing Company,United States,0,1,196,Micro Brewery,2,846 Victorian Ave,Sparks,NV,39.5352,-119.754,83868,3.716,3993.541041666667,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+216,Brauerei Max Leibinger,Germany,0,1,16,Micro Brewery,2,Friedhofstr. 20-36,Ravensburg,Baden-Württemberg,47.7818,9.62151,18469,3.363,4016.3955555555553,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,Brauerei Locher,Switzerland,0,1,105,Regional Brewery,11,Industriestrasse 12,Appenzell,Appenzell Innerrhoden,47.3378,9.40182,83403,3.265,3982.9430787037036,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+22,Aliʻi Brewing Company,United States,1,1,0,Micro Brewery,2,500 Alakawa Street,Honolulu,HI,21.3196,-157.873,50,3.778,3975.555462962963,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2207,Cervejaria Eisenbahn,Brazil,0,0,25,Micro Brewery,2,"Rua Bahia, 5181",Blumenau,Santa Catarina,-26.8932,-49.1264,145232,3.469,4025.3263888888887,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0
+222,Brauerei Spezial,Germany,0,1,7,Micro Brewery,2,Obere Königstraße 10,Bamberg,Bayern,49.897,10.8928,14987,3.62,3916.67337962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,Brauerei Pinkus Müller,Germany,0,1,23,Micro Brewery,2,Kreuzstraße 4,Münster,Nordrhein-Westfalen,51.9655,7.62159,63267,3.337,3964.591087962963,1,0,0,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0
+225,Brauereigasthof Adler Hundersingen,Germany,0,1,5,Micro Brewery,2,Ortsstraße 1,Hundersingen,Baden-Württemberg,48.0777,9.3993,123,3.278,3949.735335648148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Brauhaus Faust-Miltenberger,Germany,0,1,33,Micro Brewery,2,Hauptstraße 219,Miltenberg,Bayern,49.6992,9.24929,31032,3.466,3927.6369675925926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,Brauhaus Onuma,Japan,0,1,30,Brew Pub,4,"Onumacho 208, Nanae",Kameda,Hokkaido,41.9824,140.673,1000,3.35,3752.1285416666665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,Brauhaus Sternen,Switzerland,0,1,55,Brew Pub,4,Hohenzornstrasse 2,Frauenfeld,Thurgau,47.5585,8.90057,2057,3.417,4006.9562962962964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Breckenridge Brewery,United States,0,0,746,Macro Brewery,1,2920 Brewery lane,Littleton,CO,39.5943,-105.025,1335153,3.619,4033.726678240741,2,1,2,0,5,0,0,0,0,0,0,3,0,2,0,0,0,0
+2363,Brauerei Schützengarten AG,Switzerland,0,1,32,Regional Brewery,11,St. Jakob-Strasse 37,St. Gallen,Sankt Gallen,47.4301,9.37942,19893,3.224,3910.1871180555554,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2390,Brouwerij Alvinne,Belgium,0,1,145,Micro Brewery,2,Vaartstraat 4A,Moen,West-Vlaanderen,50.7696,3.39162,311270,3.822,3993.3154050925928,1,2,0,0,4,0,0,1,0,2,0,3,0,8,0,0,0,4
+24,Allagash Brewing Company,United States,0,1,237,Regional Brewery,11,50 Industrial Way,Portland,ME,43.7028,-70.3182,1286035,3.888,4043.6078125,0,2,0,0,4,0,0,0,0,1,0,2,0,2,0,0,0,1
+2403,Bluegrass Brewing Company,United States,0,1,375,Micro Brewery,2,3929 Shelbyville Road,St. Matthews,KY,38.253,-85.654,61601,3.514,4011.460347222222,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+241,BrewDog,Scotland,0,1,362,Regional Brewery,11,Balmacassie Industrial Estate,Ellon,Aberdeenshire,57.3716,-2.04834,4581993,3.648,4028.0088425925924,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+242,The Brewer's Art,United States,0,1,296,Micro Brewery,2,1106 N. Charles Street,Baltimore,MD,39.3028,-76.6161,96237,3.632,4005.7151388888888,2,4,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+243,Brewery at Martha's Vineyard,United States,1,1,1,Micro Brewery,2,43 Oak Bluffs Avenue,Oak Bluffs,MA,41.4576,-70.5572,184,3.436,4008.2414699074075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2442,Leroy Breweries ,Belgium,0,1,123,Regional Brewery,11,Diksmuidseweg 404,Boezinge,Vlaanderen,50.8954,2.85875,186600,3.364,3986.999050925926,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+245,Budějovický Budvar,Czech Republic,0,1,40,Regional Brewery,11,Karolíny Světlé 4,České Budějovice,Jihozápad,48.9936,14.4762,253558,3.248,4024.023738425926,0,1,0,0,2,0,0,0,0,2,0,1,0,1,0,0,0,0
+246,Brouwerij Corsendonk,Belgium,0,1,25,Regional Brewery,11,Slachthuisstraat 27,Turnhout,Vlaanderen,51.299,4.92163,334291,3.558,4008.6110995370373,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+247,Brewery Creek,United States,0,1,58,Brew Pub,4,23 Commerce Street,Mineral Point,WI,42.8577,-90.1768,952,3.471,4014.526863425926,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,1,0
+2471,AleSmith Brewing Company,United States,0,1,443,Regional Brewery,11,9990 Alesmith Ct,San Diego,CA,32.8883,-117.15,1167391,3.983,4023.328113425926,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+249,Brewery Ommegang,United States,0,0,209,Regional Brewery,11,656 County Highway 33,Cooperstown,NY,42.6818,-74.9255,1776881,3.777,4026.682222222222,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,1,0,0
+252,Velké Březno,Czech Republic,0,0,23,Macro Brewery,1,Pivovarská 116,Velké Březno,Severozápad,50.6646,14.1389,50395,3.005,3817.947708333333,1,1,0,1,0,0,0,0,0,1,0,0,0,13,0,0,0,0
+253,Waterloo Brewing,Canada,0,1,81,Macro Brewery,1,400 Bingemans Centre Dr,Kitchener,ON,43.4706,-80.4509,77645,3.383,4017.5627546296296,1,3,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,1
+2531,Full Sail Brewing Company,United States,0,1,56,Regional Brewery,11,506 Columbia Street,Hood River,OR,45.7106,-121.516,390643,3.527,4025.634814814815,2,3,0,0,1,0,0,1,0,0,0,1,0,3,0,0,0,0
+254,Bricktown Brewery,United States,0,1,93,Micro Brewery,2,1 N Oklahoma Avenue,Oklahoma City,OK,35.4672,-97.511,34179,3.377,4002.6113310185187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254053,Brouwerij Cornelissen,Belgium,0,1,27,Regional Brewery,11,Itterplein 19,Opitter,Vlaanderen,51.1167,5.64723,93477,3.343,2060.984421296296,1,4,0,0,2,0,0,0,0,1,1,1,0,0,0,0,0,0
+2571,Broad Ripple Brewpub,United States,0,1,225,Brew Pub,4,842 E 65th Street,Indianapolis,IN,39.8735,-86.143,15200,3.601,3985.810034722222,1,4,0,1,3,1,0,2,0,0,1,0,0,5,0,0,1,0
+25795,The Filling Station Microbrewery,United States,0,1,316,Brew Pub,4,642 Railroad Place,Traverse City,MI,44.7583,-85.6103,38605,3.694,3595.82130787037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,Brooklyn Brewery,United States,0,1,313,Regional Brewery,11,79 North 11th Street,Brooklyn,NY,40.7215,-73.9575,2456189,3.552,4032.519363425926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,Broughton Ales ,Scotland,0,1,26,Micro Brewery,2,,Broughton,The Scottish Borders,55.6158,-3.41145,30263,3.398,3933.764247685185,0,2,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,1
+261,Brouwerij 't IJ,Netherlands,0,0,82,Regional Brewery,11,Funenkade 7,Amsterdam,Noord-Holland,52.3667,4.92638,993660,3.504,3989.8015277777777,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Brouwerij der Trappisten van Westmalle,Belgium,0,1,3,Regional Brewery,11,Antwerpsesteenweg 496,Malle,Vlaanderen,51.2863,4.65531,450766,3.755,4008.2935416666664,1,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0
+263,Brouwerij De Sint-Sixtusabdij van Westvleteren,Belgium,0,1,3,Micro Brewery,2,Donkerstraat 12,Westvleteren,Vlaanderen,50.8957,2.71999,275477,4.39,4007.6404398148147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Brouwerij Alken-Maes,Belgium,0,0,74,Macro Brewery,1,Stationsstraat 2,Alken,Vlaanderen,50.8787,5.30493,852793,3.43,4018.844050925926,2,7,0,0,4,0,0,0,0,4,0,6,2,10,1,0,0,0
+265,Stella Artois,Belgium,0,0,30,Macro Brewery,1,Brouwerijplein 1,Leuven,Vlaanderen,50.887,4.70718,683367,3.275,4042.540150462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2663,The Brew Kettle,United States,0,1,388,Micro Brewery,2,8377 Pearl Rd,Strongsville,OH,41.347,-81.8226,228594,3.776,4004.1628819444445,1,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+268,Brouwerij Boon,Belgium,0,0,56,Micro Brewery,2,Fonteinstraat 65,Lembeek,Vlaanderen,50.7124,4.22018,539230,3.763,3992.034641203704,1,6,0,0,1,0,0,0,0,0,1,2,0,6,0,0,0,0
+2682,The Duck-Rabbit Craft Brewery,United States,0,1,71,Micro Brewery,2,4519 W Pine St,Farmville,NC,35.6003,-77.5971,208464,3.665,4015.8386689814815,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+269,Brouwerij Bosteels,Belgium,0,0,10,Macro Brewery,1,Kerkstraat 96,Buggenhout,Vlaanderen,51.0137,4.20159,677440,3.908,4024.4699189814814,3,7,0,0,2,0,0,0,0,0,2,4,0,8,0,0,0,0
+271,Brouwerij De Block,Belgium,0,1,19,Micro Brewery,2,Nieuwbaan 92,Merchtem,Vlaanderen,50.9848,4.2229,41310,3.392,4010.645173611111,0,4,0,0,2,0,0,0,0,0,1,0,0,7,0,0,0,0
+272,Brouwerij De Dolle Brouwers,Belgium,0,1,13,Micro Brewery,2,Roeselarestraat 12B,Esen,Vlaanderen,51.028,2.90351,169521,3.819,4016.6223842592594,4,5,0,0,1,0,0,0,0,0,1,2,0,1,0,0,0,1
+274,Brouwerij Mort Subite,Belgium,0,0,21,Micro Brewery,2,Lierput 1,Kobbegem,Vlaanderen,50.9105,4.24975,188575,3.403,3971.6580555555556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Brouwerij Malheur,Belgium,0,1,34,Micro Brewery,2,Mandekensstraat 179,Buggenhout,Vlaanderen,51.0233,4.15833,143405,3.648,3982.5368981481483,0,1,0,0,3,0,0,0,0,2,0,1,0,6,0,0,0,3
+277,Brouwerij De Ranke,Belgium,0,1,29,Micro Brewery,2,Rue du Petit Tourcoing 1A,Dottignies,Wallonie,50.7344,3.29949,264379,3.561,4010.041087962963,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,Brouwerij Smisje,Belgium,0,1,20,Micro Brewery,2,Driesleutelsstraat 1,Mater,Vlaanderen,50.8446,3.66093,10602,3.493,3991.5078819444443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2783,Saranac Brewery (F.X. Matt Brewing Co.),United States,0,1,330,Regional Brewery,11,830 Varick Street,Utica,NY,43.1033,-75.2442,767479,3.466,4022.0653819444447,1,0,1,0,1,0,0,1,0,0,0,2,0,1,0,0,0,0
+28,Lexington Brewing & Distilling Co.,United States,0,1,73,Regional Brewery,11,401 Cross St.,Lexington,KY,38.0499,-84.5096,566466,3.75,3994.528333333333,1,3,0,2,2,0,0,0,0,1,0,6,0,1,2,0,0,0
+280,Brouwerij der Sint-Benedictusabdij De Achelse Kluis,Belgium,0,1,4,Micro Brewery,2,De Kluis 1,Hamont-Achel,Vlaanderen,51.299,5.48756,141899,3.711,3975.4969212962965,0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,1
+283,Brouwerij Girardin,Belgium,0,1,12,Micro Brewery,2,Lindenberg 10,Sint-Ulriks-Kapelle,Vlaanderen,50.8752,4.2341,46617,3.822,4023.277002314815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Brouwerij Het Anker,Belgium,0,1,32,Regional Brewery,11,Guido Gezellelaan 49,Mechelen,Vlaanderen,51.0317,4.47281,836738,3.743,4023.6414814814816,0,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+285,Delirium - Huyghe Brewery,Belgium,0,1,132,Regional Brewery,11,Geraardsbergsesteenweg 4B,Melle,Vlaanderen,51.0003,3.80508,1106503,3.712,4032.6491550925925,0,1,0,0,2,0,0,0,0,0,0,4,0,1,0,0,0,0
+286,Brouwerij Kerkom,Belgium,0,1,37,Micro Brewery,2,Naamsesteenweg 469,Sint-Truiden,Vlaanderen,50.7763,5.16612,97649,3.483,4013.4129398148148,3,10,0,0,2,0,0,1,0,0,0,7,0,10,1,0,0,0
+287,Brouwerij Liefmans,Belgium,0,0,20,Regional Brewery,11,Aalstrstraat 200,Oudenaarde,Vlaanderen,50.8453,3.6175,250385,3.502,4026.607523148148,1,5,0,0,1,0,0,0,0,8,1,2,0,3,0,0,0,0
+288,Brouwerij Lindemans,Belgium,0,1,35,Regional Brewery,11,Lenniksebaan 1479,Vlezenbeek,Vlaanderen,50.8159,4.21219,589928,3.659,4017.4282060185187,0,0,0,0,1,0,0,0,0,1,0,2,0,7,0,0,0,0
+289,Balashi Brewery,Aruba,0,1,4,Micro Brewery,2,Balashi 62,Santa Cruz,,12.4738,-69.9771,25271,3.119,4003.119074074074,3,2,0,0,1,0,0,1,0,2,0,2,0,4,0,0,0,0
+2898,Goose Island Beer Co.,United States,0,0,1189,Macro Brewery,1,1800 West Fulton St,Chicago,IL,41.8871,-87.6721,5004886,3.872,4030.874976851852,1,3,0,0,2,0,0,3,0,1,1,0,0,3,0,0,0,0
+29,Alpine Beer Company,United States,0,1,247,Micro Brewery,2,2351 Alpine Blvd,Alpine,CA,32.8354,-116.766,599464,3.917,4023.392141203704,0,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+290,Brouwerij Oud Beersel,Belgium,0,1,93,Micro Brewery,2,Laarheidestraat 230,Beersel,Vlaanderen,50.7586,4.30087,221140,3.748,3989.603877314815,0,3,0,0,6,0,0,1,0,1,1,0,0,2,1,1,0,0
+2908,Robinsons Brewery,England,0,1,209,Regional Brewery,11,Lower Hillgate,Stockport,Greater Manchester,53.4097,-2.15565,330942,3.375,3977.13037037037,3,2,0,0,4,0,0,1,0,1,0,2,0,0,0,0,0,0
+291,Brouwerij Rodenbach,Belgium,0,0,11,Macro Brewery,1,Spanjestraat 133,Roeselare,Vlaanderen,50.9461,3.13801,556080,3.835,3994.625925925926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2917,Dock Street Brewing Co.,United States,0,1,414,Micro Brewery,2,701 South 50th St.,Philadelphia,PA,39.9478,-75.2229,63302,3.637,3985.9920833333335,1,2,0,1,1,0,0,0,0,0,3,4,0,3,0,0,0,0
+292,Brouwerij Roman,Belgium,0,1,47,Micro Brewery,2,Hauwaart 105,Oudenaarde,Vlaanderen,50.831,3.67564,234350,3.436,3941.694513888889,0,2,0,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0
+2927,Big Sky Brewing Company,United States,0,1,269,Regional Brewery,11,5417 Trumpeter Way,Missoula,MT,46.9223,-114.073,330032,3.59,4026.5471296296296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Brouwerij Slaghmuylder,Belgium,0,1,22,Micro Brewery,2,Denderhoutembaan 2,Ninove,Vlaanderen,50.8413,4.02128,57830,3.413,3951.724583333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,Brasserie St-Feuillien,Belgium,0,1,72,Micro Brewery,2,Rue d'Houdeng 20,Le Rœulx,Wallonie,50.5022,4.10986,460502,3.531,4023.5758912037036,0,6,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0
+296,Brouwerij St.Bernardus,Belgium,0,1,19,Regional Brewery,11,Trappistenweg 23,Watou,Vlaanderen,50.841,2.63944,931509,3.822,4008.3277662037035,1,2,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+299,Brouwerij The Musketeers,Belgium,0,1,78,Micro Brewery,2,Reepstraat 208,Sint-Gillis-Waas,Vlaanderen,51.2261,4.08646,392118,3.57,3986.5604282407407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Brouwerij Van Den Bossche,Belgium,0,1,60,Micro Brewery,2,Sint-Lievensplein 16,Sint-Lievens-Esse,Vlaanderen,50.8567,3.88471,96032,3.395,4009.522395833333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Brouwerij Hoegaarden,Belgium,0,0,47,Macro Brewery,1,Stoopkensstraat 24-46,Hoegaarden,Vlaanderen,50.777,4.88646,653705,3.489,4029.9015740740742,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Kasteel Brouwerij Vanhonsebrouck,Belgium,0,1,91,Regional Brewery,11,Brouwerijstraat 1,Izegem,Vlaanderen,50.9213,3.2359,908740,3.627,4003.5111574074076,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+305,Brouwerij Verhaeghe,Belgium,0,1,26,Micro Brewery,2,Sint-Dierikserf 1,Vichte,Vlaanderen,50.8338,3.39139,338904,3.691,4021.583946759259,0,2,0,0,5,0,0,0,0,3,2,2,0,7,0,0,0,0
+305923,Celis Brewery,United States,0,1,79,Micro Brewery,2,10001 Metric Blvd,Austin,TX,30.3797,-97.716,46025,3.654,1805.668888888889,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,Browar Okocim,Poland,0,0,53,Macro Brewery,1,ul. Browarna 14,Brzesko,województwo małopolskie,49.9595,20.6039,86408,3.068,4026.581701388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,Browar Warka,Poland,0,0,21,Macro Brewery,1,ul. Gośniewska 65,Warka,województwo mazowieckie,51.8014,21.1634,59500,3.01,4011.407210648148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,Grupa Żywiec,Poland,0,0,46,Macro Brewery,1,ul. Browarna 88,Żywiec,województwo śląskie,49.6622,19.1742,231808,3.144,3977.3917592592593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,Brown Street Brewery,United States,1,1,0,Micro Brewery,2,16 N. Brown Street,Rhinelander,WI,45.638,-89.4127,0,0,4014.6685300925924,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Brownings Brewery,United States,1,1,1,Micro Brewery,2,401 East Main Street,Louisville,KY,38.2554,-85.7441,71,3.406,3967.710462962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3112,Emerson's Brewery,New Zealand,0,0,427,Micro Brewery,2,14 Wickliffe Street,Dunedin,Otago,-45.872,170.518,69325,3.692,3987.5954166666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3125,Great Lakes Brewing Company,United States,0,1,453,Regional Brewery,11,2516 Market Ave,Cleveland,OH,41.4844,-81.7044,1707749,3.704,4023.975763888889,0,1,0,0,3,0,0,0,0,0,0,3,0,2,0,0,0,0
+313,BT McClintic Beer Company,United States,1,1,0,Micro Brewery,2,,Beloit,WI,42.5083,-89.0318,5,0,3591.330474537037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3138,Brouwerij Loterbol,Belgium,0,1,16,Brew Pub,4,Michel Theysstraat 58A,Diest,Vlaanderen,50.9878,5.0544,12436,3.589,3972.696863425926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,Bube's Brewery,United States,0,1,327,Brew Pub,4,102 North Market Street,Mount Joy,PA,40.1118,-76.5029,11442,3.486,4022.6266898148147,0,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+317,Bull & Bush Brewery,United States,0,1,226,Micro Brewery,2,4700 Cherry Creek Drive South,Glendale,CO,39.7031,-104.932,46036,3.713,3982.5338541666665,0,2,0,0,2,0,0,0,0,2,0,2,0,0,0,0,0,0
+319,Bullfrog Brewery,United States,0,1,443,Micro Brewery,2,231 West Fourth Street,Williamsport,PA,41.2404,-77.0057,102075,3.718,3973.9859837962963,0,1,0,1,2,0,0,0,0,0,0,1,0,1,0,0,0,1
+32,America's Brewpub,United States,1,1,0,Micro Brewery,2,205 N. Broadway,Aurora,IL,41.7606,-88.3088,78,3.253,4015.9611458333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,Bürgerbräu Wolnzach,Germany,0,1,12,Micro Brewery,2,Am Brunnen 2,Wolnzach,Bayern,48.6089,11.6185,122,3.477,3930.5954166666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,Burton Bridge Brewery,England,0,1,90,Micro Brewery,2,24 Bridge Street,Burton-on-Trent,Staffordshire,52.8071,-1.62561,20907,3.396,3991.688287037037,0,2,0,0,1,0,0,0,0,0,0,2,0,1,0,1,0,0
+3228,Court Avenue Brewing Company,United States,0,1,311,Micro Brewery,2,309 Court Avenue,Des Moines,IA,41.5855,-93.621,22520,3.585,3970.955138888889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,Butte Creek Brewing,United States,1,1,0,Micro Brewery,2,1601 Airport Road,Ukiah,CA,39.1326,-123.201,9638,3.27,3972.69,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3241,Brasserie Fantôme,Belgium,0,1,129,Micro Brewery,2,Rue Préal 8,Soy,Wallonie,50.2861,5.5129,109235,3.732,4013.598622685185,0,1,0,0,3,0,0,0,0,1,0,1,0,4,0,0,0,0
+327,C.H. Evans Brewing Company at the Albany Pump Station,United States,0,1,232,Micro Brewery,2,19 Quackenbush Square,Albany,NY,42.6542,-73.7481,27697,3.537,3986.888275462963,1,4,0,1,3,0,0,1,0,0,0,2,0,2,0,1,0,0
+328,Caldera Brewing Company,United States,0,1,122,Micro Brewery,2,590 Clover Lane,Ashland,OR,42.1991,-122.715,201300,3.625,3994.164236111111,0,5,0,0,4,0,0,0,0,0,2,2,0,1,0,0,0,0
+3284,Grand Teton Brewing,United States,0,1,57,Micro Brewery,2,430 Old Jackson Hwy,Victor,ID,43.5928,-111.102,169658,3.643,3993.8366087962963,0,3,0,0,2,0,0,2,0,0,0,2,0,0,0,1,0,0
+3296,Fuller's Brewery,England,0,0,117,Macro Brewery,1,Chiswick Lane South,London,Greater London,51.4877,-0.24886,962913,3.501,4038.9122916666665,0,1,0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0
+331,Ace Cider (The California Cider Company),United States,0,1,38,Cidery,8,2064 Gravenstein Highway North,Sebastopol,CA,38.4251,-122.848,248768,3.654,3999.4299189814815,0,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0
+332,Callahan's Pub and Brewery,United States,1,1,0,Micro Brewery,2,8111 Mira Mesa Blvd.,San Diego,CA,32.9121,-117.148,1368,3.426,3935.7258449074075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,Cameron's Brewing Company,Canada,0,1,128,Micro Brewery,2,1165 Invicta Dr,Oakville,ON,43.4748,-79.6766,84775,3.559,3992.8614467592593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3349,Grand Lake Brewing Company,United States,1,1,0,Micro Brewery,2,5610 Yukon Street,Arvada,CO,39.7995,-105.082,10372,3.364,3993.6895949074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,Camerons Brewery,England,0,1,31,Micro Brewery,2,Lion Brewery,Hartlepool,Durham,54.6821,-1.21232,61851,3.332,3834.242662037037,2,2,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0
+337,Cape Ann Brewing Company,United States,1,1,0,Micro Brewery,2,11 Rogers Street,Gloucester,MA,42.6114,-70.6652,57351,3.522,4018.7819907407406,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+338,Capital Brewery,United States,0,1,207,Regional Brewery,11,7734 Terrace Ave,Middleton,WI,43.0951,-89.517,174776,3.473,4018.803726851852,3,3,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0
+3391,CJ's Brewing Company,United States,0,1,169,Micro Brewery,2,8115 Richardson Road,Commerce Township,MI,42.5766,-83.4426,10938,3.522,3966.625520833333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Amerisports Brew Pub,United States,0,1,31,Brew Pub,4,8201 NE Birmingham Road,Kansas City,MO,39.1551,-94.482,2814,3.321,3818.7281597222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,Captain Lawrence Brewing Company,United States,0,1,1081,Regional Brewery,11,444 Saw Mill River Rd,Elmsford,NY,41.0701,-73.8152,792831,3.703,4018.569988425926,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+342,O'Hara's Brewery ,Ireland,0,0,61,Regional Brewery,11,Royal Oak Road,Carlow,Leinster,52.6987,-6.97484,273087,3.459,4024.701550925926,1,2,0,0,1,0,0,1,0,3,0,2,0,0,0,0,0,0
+344,Carlsberg Group,Denmark,0,1,398,Macro Brewery,1,100 Ny Carlsberg Vej,Copenhagen,Region Hovedstaden,55.6673,12.535,1074068,2.959,4028.316724537037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,Carlsberg Sverige,Sweden,0,0,108,Macro Brewery,1,Årstadvägen,Falkenberg,Hallands län,56.9008,12.5486,334021,2.8,4000.4108101851853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Carlyle Brewing Co.,United States,1,1,0,Micro Brewery,2,215 East State St,Rockford,IL,42.269,-89.0905,9764,3.695,3958.655659722222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3497,Brouwerij De Troch,Belgium,0,1,41,Micro Brewery,2,Langestraat 20,Wambeek,Vlaanderen,50.853,4.16403,44867,3.296,4008.4798958333336,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+35,Amherst Brewing,United States,0,1,192,Micro Brewery,2,10 University Drive,Amherst,MA,42.3735,-72.5329,47220,3.835,3946.9005324074074,4,2,0,1,2,0,0,0,0,0,0,1,0,1,0,1,0,0
+350,Carolina Brewery,United States,0,1,28,Micro Brewery,2,120 Lowes Dr,Pittsboro,NC,35.7436,-79.1648,74255,3.496,3988.8531597222222,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Carver Brewing Company,United States,0,1,112,Brew Pub,4,1022 Main Avenue,Durango,CO,37.2748,-107.88,14431,3.737,3904.6740856481483,2,4,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+352,Castle Springs Brewery,United States,1,1,1,Micro Brewery,2,6 County Club Drive,Moultonborough,NH,43.6883,-71.4563,37,3.65,3799.1064814814813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,Cat's Paw Home Brew,United States,0,1,2,Home Brewery,5,,,,0,0,4,0,3967.231400462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3562,Brouwerij 3 Fonteinen,Belgium,0,1,20,Micro Brewery,2,Molenstraat 47,Lot,Vlaanderen,50.7635,4.27346,494287,4.297,3985.788101851852,1,1,0,0,2,0,0,1,0,0,0,1,0,2,0,0,0,0
+357,Red Racer,Canada,0,1,291,Micro Brewery,2,11411 Bridgeview Dr,Surrey,BC,49.21,-122.864,242750,3.484,4001.7183564814814,4,7,1,0,2,0,0,0,0,0,0,2,0,0,1,0,0,0
+358,Central Waters Brewing Company,United States,0,1,126,Micro Brewery,2,351 Allen St,Amherst,WI,44.4419,-89.2797,797574,4.031,4011.7595370370373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,Cerveceria Centro Americana,Guatemala,0,1,89,Macro Brewery,1,3ra Avenida Norte Final Finca el Zapote,Zona 2,Guatemala City,14.6549,-90.5152,29886,2.858,4014.6022106481482,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Amicas Microbrewery & Pizza,United States,0,1,53,Brew Pub,4,136 East 2nd Street,Salida,CO,38.8192,-102.35,2501,3.687,3894.4478819444444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,Mexico,0,0,84,Macro Brewery,1,"Av Alfonso Reyes, 2202 Norte",Monterrey,Nuevo León,25.6949,-100.317,1139688,3.028,4041.6322453703706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,Cerveza Jerome,Argentina,0,1,41,Micro Brewery,2,,Potrerillos,Mendoza,-32.9507,-69.2056,1061,3.133,4018.352939814815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,Cervecería Nacional (Panamá),Panama,0,0,10,Macro Brewery,1,,Costa del Este,Panamá,9.01313,-79.4676,13231,2.722,4017.405763888889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,Cerveceria Bucanero,Cuba,0,1,15,Macro Brewery,1,,Holguín,Holguín,20.8795,-76.2595,33063,2.838,4007.098622685185,0,0,0,0,2,0,0,1,0,2,0,4,0,0,0,0,0,0
+3652,Capitol City Brewing Company,United States,0,1,266,Micro Brewery,2,1100 New York Ave NW #710W,Washington,DC,38.8875,-77.0364,53198,3.466,3983.7130439814814,0,1,0,1,4,0,0,0,0,0,1,2,0,0,0,0,0,0
+3667,Samson (Budějovický měšťanský pivovar),Czech Republic,0,0,17,Regional Brewery,11,Lidická 458/51,České Budějovice,,48.9635,14.4743,23289,3.15,3979.919513888889,0,0,0,0,2,0,0,0,0,1,0,1,0,9,0,0,0,0
+37,Amstel Bier,Netherlands,0,0,61,Macro Brewery,1,Burgemeester Smeetsweg 1,Zoeterwoude,Zuid-Holland,52.1375,4.53398,471165,2.857,4037.632199074074,1,0,0,0,0,0,0,0,0,1,0,3,0,3,1,0,0,0
+370,Grupo Cervezas Alhambra,Spain,0,0,28,Macro Brewery,1,Avenida de Murcia 1,Granada,Andalucía,37.1872,-3.60351,131088,3.187,4017.7687615740742,0,5,0,0,0,0,0,0,0,0,0,2,0,5,1,0,0,1
+373,Charlie & Jake's Brewery Grille,United States,0,1,60,Micro Brewery,2,"6300 N. Wickham Rd., #137",Melbourne,FL,28.2146,-80.674,2511,3.364,3881.6887268518517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,Chelsea Craft Brewing Company,United States,0,1,92,Micro Brewery,2,463 East 173rd Street,Bronx,NY,40.8417,-73.9015,12304,3.404,4014.442476851852,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+375,Cherryland Brewing,United States,1,1,0,Micro Brewery,2,PO Box 643,Green Bay,WI,44.5192,-88.0198,15,2.625,3590.7339930555554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Cheshire Cat Brewery,United States,1,1,0,Micro Brewery,2,7803 Ralston Rd,Arvada,CO,39.8021,-105.084,15,3.775,3972.3841782407408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,Bières de Chimay,Belgium,0,1,14,Regional Brewery,11,Route Charlemagne 8,Baileux,Wallonie,50.036,4.378,966284,3.825,4032.776909722222,1,1,0,0,0,0,0,0,0,3,0,4,0,1,2,0,0,0
+3787,BridgePort Brewing Co.,United States,1,1,1,Regional Brewery,11,1318 NW Northrup St,Portland,OR,45.5314,-122.685,214217,3.497,4012.617708333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,Cigar City Brewing,United States,0,0,1815,Regional Brewery,11,3924 West Spruce St,Tampa,FL,27.959,-82.5092,2359104,3.886,4014.925462962963,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0
+38,Anacortes Brewery (Rockfish Grill),United States,0,1,216,Micro Brewery,2,320 Commercial Ave,Anacortes,WA,48.5193,-122.613,17756,3.577,3945.603877314815,2,4,0,0,3,0,0,0,1,0,0,7,0,0,0,0,0,0
+381,City Brewery,United States,0,1,16,Regional Brewery,11,925 South 3rd St,La Crosse,WI,43.8042,-91.2526,7433,2.459,4025.690162037037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3821,Asheville Brewing Company,United States,0,1,150,Micro Brewery,2,77 Coxe Ave,Asheville,NC,35.5917,-82.5554,142123,3.688,3979.7310069444443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Cleveland ChopHouse and Brewery,United States,1,1,0,Nano Brewery,3,824 West St. Clair,Cleveland,OH,41.4995,-81.6995,347,3.48,3836.751435185185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,Climax Brewing Company,United States,0,1,81,Micro Brewery,2,112 Valley Road,Roselle Park,NJ,40.6597,-74.283,11355,3.378,3947.3679166666666,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+385,Heavy Seas Beer,United States,0,1,758,Regional Brewery,11,4615 Hollins Ferry Rd,Baltimore,MD,39.2308,-76.6751,926937,3.663,4029.7691666666665,0,2,0,0,1,0,0,1,0,0,1,1,0,2,0,0,0,0
+386,Cölner Hofbräu Früh,Germany,0,1,4,Regional Brewery,11,Am Hof 12-18,Cologne,Nordrhein-Westfalen,50.9397,6.95718,93665,3.279,3994.1056712962964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,Coach's Brewery,United States,0,1,48,Micro Brewery,2,102 West Main Street,Norman,OK,35.2203,-97.444,1499,3.17,3868.6104976851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,COAST Brewing Company,United States,0,1,113,Micro Brewery,2,1250 2nd St North,North Charleston,SC,32.8735,-79.9722,86405,3.789,3989.5891782407407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3880,Anderson Valley Brewing Company,United States,0,1,92,Regional Brewery,11,17700 Hwy 253,Boonville,CA,39.0005,-123.356,1237820,3.663,4034.608275462963,0,1,0,0,1,0,0,1,0,0,0,3,0,0,0,3,0,0
+389,Coast Range Brewing,United States,1,1,0,Micro Brewery,2,7050 Monterey Street,Gilroy,CA,37.0013,-121.566,228,3.277,3634.75681712963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3891,Anchor Brewing Company,United States,0,0,257,Macro Brewery,1,1705 Mariposa St,San Francisco,CA,37.7633,-122.401,1315720,3.518,4025.4602314814815,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Coeur d'Alene Brewing Company,United States,1,1,1,Micro Brewery,2,209 Lakeside Avenue,Coeur d'Alene,ID,47.6744,-116.784,213,3.898,3944.611782407407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,Cold Spring Brewery,United States,0,1,83,Micro Brewery,2,219 Red River Ave N.,Cold Spring,MN,45.4582,-94.4291,11936,3.521,3997.581875,0,5,0,2,0,0,0,0,1,3,0,0,0,1,0,0,0,0
+394,Commonwealth Brewing #1,United States,0,1,7,Home Brewery,5,,Boston,MA,42.3584,-71.0598,19,0,3391.093252314815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Coniston Brewing Company,England,0,1,24,Micro Brewery,2,The Forge,Coniston,Cumbria,54.3699,-3.07692,21559,3.529,3973.1185069444446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Cooper's Cave Ale Company,United States,0,1,36,Micro Brewery,2,2 Sagamore St,Glens Falls,NY,43.3174,-73.6397,6471,3.17,3887.8014351851853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3963,Chama River Brewing Company,United States,1,1,0,Brew Pub,4,4939 Pan American Fwy 87109,Albuquerque,NM,35.1284,-106.636,8500,3.64,3973.594201388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,Coopers,Australia,0,1,56,Macro Brewery,1,461 South Road,Regency Park,South Australia,-34.8727,138.573,179786,3.288,4019.889826388889,0,5,0,0,0,0,0,0,0,2,1,5,2,7,0,0,0,1
+398,Cooperstown Brewing Company,United States,0,1,45,Micro Brewery,2,110 River St,Milford,NY,42.5889,-74.9414,27552,3.398,3957.5696296296296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Coors Brewing Company,United States,0,0,94,Macro Brewery,1,300 12th Street,Golden,CO,39.7591,-105.217,956097,2.664,4043.893564814815,1,2,0,1,4,0,0,1,0,1,0,8,0,1,0,0,0,0
+4,Aass Bryggeri,Norway,0,1,37,Macro Brewery,1,Ole Steens gate 10 3015,Drammen,Buskerud,59.7417,10.2117,261254,3.039,3939.9943865740743,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+400,Copper Dragon Brewery,England,0,1,66,Micro Brewery,2,"Lee Mills, St Pauls Rd",Keighley,England,53.8637,-1.90239,11323,3.383,3985.851736111111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Copper Eagle Brewing,United States,0,1,3,Home Brewery,5,,,,0,0,1,0,3594.7777314814816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Corner Pub Brewery,United States,0,1,49,Micro Brewery,2,100 E. Main St,Reedsburg,WI,43.5324,-90.01,1496,3.599,3825.7976157407406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Coronado Brewing Company,United States,0,1,675,Regional Brewery,11,1205 Knoxville St,San Diego,CA,32.7719,-117.205,823971,3.693,4024.9385185185183,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4045,Carlton & United Breweries,Australia,0,0,88,Macro Brewery,1,"Nelson Street and Thompson Street,",Abbotsford,Victoria,-37.8094,145.003,83527,2.761,3994.438576388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Newport Craft Brewing Co.,United States,0,1,22,Micro Brewery,2,293 JT Connell Rd,Newport,RI,41.5127,-71.3176,112111,3.552,4025.670949074074,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4058,Koninklijke Grolsch,Netherlands,0,0,78,Macro Brewery,1,Brouwerslaan 1,Enschede,Overijssel,52.207,6.81712,1084951,3.268,3996.087048611111,1,1,0,0,2,0,0,0,0,1,2,3,1,6,0,0,0,0
+408,Courthouse Pub,United States,0,1,111,Micro Brewery,2,1001 South Eighth Street,Manitowoc,WI,44.0886,-87.6576,2672,3.444,3868.58125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Crabby Larry's Brewpub Steak & Crab House,United States,1,1,0,Brew Pub,4,237 West Butler Avenue,Chalfont,PA,40.2796,-75.2142,185,3.542,4020.637060185185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,Craftsman Brewing Company,United States,0,1,134,Micro Brewery,2,1260 Lincoln Ave,Pasadena,CA,34.1688,-118.159,40708,3.749,4012.621990740741,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Crane River Brewpub and Cafe,United States,1,1,0,Micro Brewery,2,200 N 11th St,Lincoln,NE,40.8151,-96.7051,13,0,4008.6924305555553,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4123,Glacier Brewhouse,United States,0,1,335,Brew Pub,4,737 W 5th Ave,Anchorage,AK,61.2178,-149.896,31337,3.735,3955.5036574074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4129,Dortmunder Actien-Brauerei,Germany,0,0,40,Micro Brewery,2,Steigerstraße 20,Dortmund,Nordrhein-Westfalen,51.5294,7.46818,173409,3.092,3995.6291666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Crescent City Brewhouse,United States,0,1,54,Micro Brewery,2,527 Decatur Street,New Orleans,LA,29.9558,-90.0641,40556,3.309,4007.383784722222,1,2,0,0,1,0,0,0,0,1,0,3,0,0,0,0,0,0
+414,Crested Butte Brewery &  Pub,United States,1,1,0,Micro Brewery,2,"1600 West Evans Ave, Ste L",Englewood,CO,39.6776,-105.006,87,3.448,3832.740740740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,Cricket Hill Brewing Co.,United States,0,1,125,Micro Brewery,2,24 Kulick Road,Fairfield,NJ,40.8726,-74.2964,60029,3.487,4016.1092708333335,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+41520,Desert Eagle Brewing Company,United States,0,1,73,Micro Brewery,2,150 W Main St,Mesa,AZ,33.4153,-111.836,13272,3.475,3294.682523148148,1,2,0,0,0,0,0,0,0,1,0,5,0,2,0,0,0,1
+416,Crooked River Brewing,United States,1,0,1,Micro Brewery,2,24945 Detroit Road,Westlake,OH,41.4703,-81.8969,2416,3.399,3946.7097916666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,Crooked Waters Brewing,United States,1,1,0,Micro Brewery,2,330 SW Constitution Avenue,Peoria,IL,40.687,-89.5904,2,0,3751.8303240740743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,Cropton,England,0,0,48,Micro Brewery,2,The New Inn & Cropton Brewery,"Cropton, Ryedale",North Yorkshire,54.2901,-0.841412,3411,3.501,3987.783113425926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4186,Crabtree Brewing Company,United States,0,1,101,Micro Brewery,2,2961 29th St,Greeley,CO,40.391,-104.727,21618,3.553,3998.609328703704,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+420,Cervecería de Baja California (Cucapa Brewing Co.),Mexico,0,1,42,Micro Brewery,2,López Mateos # 2301,Mexicali,Baja California,32.6148,-115.441,38581,3.34,3991.608449074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,Cumberland Brewery,United States,1,1,0,Brew Pub,4,1576 Bardstown Road,Louisvile,KY,38.2309,-85.7055,10440,3.489,3960.9084722222224,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+423,Geary Brewing Company,United States,0,1,81,Micro Brewery,2,38 Evergreen Dr,Portland,ME,43.708,-70.3143,54132,3.367,4019.802037037037,2,2,0,0,8,0,0,1,0,1,0,2,0,3,0,0,0,0
+424,Daas,Belgium,0,1,5,Micro Brewery,2,Rue des Pannieres 17,7623 Rongy,,50.51,3.38629,2297,3.2,3775.3439699074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4247,Bristol Brewing Company,United States,0,1,178,Brew Pub,4,1604 S. Cascade Ave,Colorado Springs,CO,38.8109,-104.827,104424,3.623,3998.675740740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,Daleside Brewery,England,0,1,110,Micro Brewery,2,Camwal Rd,Harrogate,North Yorkshire,53.9998,-1.50081,16194,3.379,4025.5168402777776,0,1,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0
+426,Dark Horse Brewing Co.,United States,0,0,702,Micro Brewery,2,511 S Kalamazoo Ave,Marshall,MI,42.2669,-84.9633,941613,3.793,3995.3228125,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,Brouwerij De Dochter van de Korenaar,Belgium,0,1,69,Micro Brewery,2,Oordeelstraat 3A,Baarle-Hertog,Vlaanderen,51.4468,4.94048,235846,3.661,3988.695462962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,De Friese Bierbrouwerij,Netherlands,0,1,63,Micro Brewery,2,Snekerstraat 43,Bolsward,Fryslân,53.0611,5.53382,26469,3.148,3587.8453935185184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Angelic Brewing Company,United States,1,1,0,Micro Brewery,2,322 W. Johnson St.,Madison,WI,43.074,-89.3913,5,0,3399.721226851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,Brouwerij De Halve Maan,Belgium,0,1,30,Regional Brewery,11,Walplein 26,Bruges,Vlaanderen,51.2026,3.22465,739983,3.697,3993.8140972222222,1,1,0,0,2,0,0,0,0,0,0,3,0,5,0,0,0,0
+431,Microbrouwerij Urthel,Belgium,0,1,25,Micro Brewery,2,Krommekeerstraat 21,Ruiselede,Vlaanderen,51.0793,3.3696,129168,3.586,3989.724583333333,0,1,0,1,5,0,0,0,0,0,0,2,0,16,0,0,0,1
+432,De Proefbrouwerij,Belgium,0,1,279,Macro Brewery,1,Doornzelestraat 20,Lochristi,Vlaanderen,51.1155,3.81556,143750,3.608,3998.0357060185183,0,1,0,0,1,0,0,0,0,1,1,2,0,5,0,0,0,0
+433,De Struise Brouwers,Belgium,0,1,113,Micro Brewery,2,Kasteelstraat 50,Oostvleteren,Vlaanderen,50.9319,2.73768,489911,4.004,4007.0695833333334,0,1,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0
+4339,21st Amendment Brewery,United States,0,1,505,Regional Brewery,11,2010 Williams,San Leandro,CA,37.6857,-122.133,1261095,3.67,4025.51275462963,2,1,0,0,3,0,3,2,0,0,0,2,1,1,0,0,0,0
+434,Deep Creek Brewing,United States,1,1,0,Micro Brewery,2,75 Visitor Center Drive,McHenry,MD,39.561,-79.3587,3,0,3592.5645949074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,Stuft Pizza & Brewing Company,United States,1,1,0,Micro Brewery,2,1462 Dempsey Rd,Milpitas,CA,37.4159,-121.878,21,0,3770.6283680555557,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,Delafield Brewhaus,United States,0,1,123,Brew Pub,4,3832 Hillside Drive,Delafield,WI,43.0491,-88.3559,16884,3.598,4007.650625,3,3,0,1,2,0,0,1,0,0,0,2,0,2,0,1,0,1
+438,Dempsey's Restaurant & Brewery,United States,0,1,94,Micro Brewery,2,50 E. Washington St,Petaluma,CA,38.2363,-122.639,3676,3.508,3895.6172916666665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Denmark Brewing,United States,1,1,0,Micro Brewery,2,6000 Maribel Road,Denmark,WI,44.3513,-87.807,0,0,3800.979490740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Anheuser-Busch,United States,0,0,504,Macro Brewery,1,1 Busch Place,St. Louis,MO,38.5985,-90.2094,2630461,2.627,4042.3941666666665,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+440,Denver ChopHouse and Brewery,United States,0,0,70,Brew Pub,4,1735 19th Street Suite 100,Denver,CO,39.7552,-104.997,14686,3.521,4007.4124305555556,0,0,0,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0
+441,Deschutes Brewery,United States,0,1,1246,Regional Brewery,11,901 SW Simpson Ave,Bend,OR,44.0469,-121.322,3087829,3.8,4022.9108912037036,1,2,0,0,5,0,0,1,0,0,1,2,0,0,0,0,0,0
+442,Desnoes & Geddes,Jamaica,0,0,24,Macro Brewery,1,214 Spanish Town Road,Kingston,Surrey County,18.0053,-76.8341,240649,3.105,4031.6023148148147,2,2,0,0,0,0,0,0,0,2,0,1,1,4,0,0,0,0
+443,Devil Mountain Brewing,United States,1,1,3,Micro Brewery,2,2283 Camel Road,Benicia,CA,38.0556,-122.134,62,3.438,3995.480972222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,Diamond Bear Brewing Co.,United States,0,1,31,Micro Brewery,2,600 N. Broadway,North Little Rock,AR,34.7592,-92.2723,36198,3.406,4014.409039351852,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,Diamond Knot Brewing Company,United States,0,1,58,Brew Pub,4,4602 Chennault Beach Rd,Mukilteo,WA,47.8955,-122.296,68943,3.588,3992.7610185185185,1,3,0,0,0,0,0,2,0,1,1,2,0,2,1,1,0,0
+446,Diamondback Brewery,United States,1,1,0,Micro Brewery,2,,Cleveland,OH,41.4993,-81.6944,1,0,3399.469189814815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,Dick's Brewing Company,United States,0,1,86,Micro Brewery,2,3516 Galvin Rd,Centralia,WA,46.7352,-123.001,32895,3.41,4007.6789236111113,1,0,0,0,3,0,0,1,0,0,0,2,0,2,0,0,0,0
+448,Brauerei Diebels,Germany,0,0,6,Macro Brewery,1,Brauerei-Diebels-Straße 1,Issum,Nordrhein-Westfalen,51.5331,6.42141,26840,3.057,3974.41650462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4486,Fox River Brewing Company,United States,0,1,236,Micro Brewery,2,1501 Arboretum Drive,Oshkosh,WI,44.0342,-88.5608,45331,3.609,4021.177789351852,0,3,0,0,1,0,0,1,0,1,1,3,0,0,0,0,0,0
+449785,The Catamount Brewery,United States,0,1,9,Contract Brewery,10,,,,0,0,3447,3.829,698.9120717592592,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Appalachian Brewing Company,United States,0,1,90,Micro Brewery,2,50 North Cameron St,Harrisburg,PA,40.2659,-76.8753,184258,3.528,4023.466215277778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Dillon Dam Brewery,United States,0,1,319,Brew Pub,4,100 Little Dam Road,Dillon,CO,39.6282,-106.059,34252,3.658,3973.9575578703702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Dinkelacker-Schwaben Bräu,Germany,0,1,79,Regional Brewery,11,Tübinger Strasse 46,Stuttgart,Baden-Württemberg,48.7678,9.1705,170336,3.343,4013.706990740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Dix Barbecue & Brewery,Canada,1,1,0,Micro Brewery,2,871 Beatty Street,Vancouver,BC,49.2769,-123.115,4,0,3860.8033564814814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Faubourg Brewing Co.,United States,0,1,19,Micro Brewery,2,3501 Jourdan Rd,New Orleans,LA,29.9606,-90.0871,59672,3.271,4032.9147222222223,0,2,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0
+455,Dixon's Downtown Grill,United States,1,1,0,Micro Brewery,2,1610 16th Street,Denver,CO,39.7513,-105,3,0,3592.8738310185186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4568,Anadolu Efes,Turkey,0,1,75,Macro Brewery,1,Buyaka E Blok Tepeüstü / Ümraniye,Istanbul,Istanbul,41.0182,29.1274,163366,2.939,3984.6644791666668,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Dockside Restaurant Brewing Company,Canada,0,1,24,Brew Pub,4,1253 Johnston Street,Vancouver,BC,49.2695,-123.131,1841,3.025,4023.0075347222223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4571,Brouwerij De Brabandere,Belgium,0,1,78,Regional Brewery,11,Rijksweg 33,Bavikhove,Vlaanderen,50.8627,3.29914,695154,3.505,4015.3880439814816,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1
+4587,Big Hole Brewing Company,United States,1,1,0,Micro Brewery,2,401 E. Main Street,Belgrade,MT,45.7736,-111.172,1368,3.249,3976.591365740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Dogfish Head Craft Brewery,United States,0,0,984,Regional Brewery,11,6 Cannery Village Blvd,Milton,DE,38.7776,-75.3099,5254967,3.84,4043.83693287037,2,2,0,0,4,0,0,0,0,0,2,2,0,4,0,1,0,0
+46,Appleton Brewing/Adler Brau,United States,1,1,4,Micro Brewery,2,1004 South Old Oneida,Appleton,WI,44.4892,-88.2169,32,0,3997.101574074074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,Dostal Alley,United States,0,1,34,Micro Brewery,2,116 Main Street,Central City,CO,39.8002,-105.513,2323,3.47,3998.3646180555556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Double Mountain Brewery & Cidery,United States,0,1,426,Micro Brewery,2,8 Fourth Street,Hood River,OR,45.71,-121.514,216265,3.74,3991.534988425926,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+463,Dragonmead Brewery,United States,0,1,251,Micro Brewery,2,14600 E. 11 Mile Rd,Warren,MI,42.4927,-82.9752,88692,3.722,3987.8298148148147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,Drake's Brewing Company,United States,0,1,761,Regional Brewery,11,1933 Davis St,San Leandro,CA,37.7176,-122.182,407284,3.828,4002.6383333333333,0,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0
+4646,Belle-Vue,Belgium,0,0,24,Macro Brewery,1,Bergensesteenweg 144,Sint-Pieters-Leeuw,Vlaanderen,50.7989,4.2872,62379,3.129,4001.7795254629627,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+465,Dreher Sörgyárak,Hungary,0,0,66,Macro Brewery,1,Jászberényi út 7-11,Budapest,Közép-Magyarország,47.4912,19.1457,74023,2.868,3832.9424305555553,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+4674,Allgäuer Brauhaus,Germany,0,0,66,Micro Brewery,2,Beethovenstraße 7,Kempten (Allgäu),Bayern,47.7241,10.3141,182370,3.364,4007.9075462962965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,Dubuque Brewing Company,United States,1,1,0,Micro Brewery,2,500 East Fourth Street Extension,Dubuque,IA,42.5006,-90.6646,23,3.455,4014.896921296296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Arcadia Brewing Co.,United States,0,0,215,Contract Brewery,10,211 Industrial Park Dr,Elk Rapids,MI,44.9035,-85.407,344261,3.58,4016.613159722222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,Dunedin Brewery,United States,0,1,630,Micro Brewery,2,937 Douglas Ave.,Dunedin,FL,28.014,-82.7876,49061,3.679,3951.7596180555556,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4719,Brasserie des Franches-Montagnes (BFM),Switzerland,0,1,162,Micro Brewery,2,Ch. des Buissons 8,Saignelégier,Jura,47.2542,7.0024,155474,3.964,3985.7041319444443,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+472,Duneland Brewhouse,United States,1,1,0,Micro Brewery,2,5718 S. Franklin,Michigan City,IN,41.6686,-86.894,1,0,3595.8319560185187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,East End Brewing Company,United States,0,1,160,Brew Pub,4,147 Julius St.,Pittsburgh,PA,40.4553,-79.9043,148536,3.698,4012.505752314815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Eastern Shore Brewing Co.,United States,0,1,72,Micro Brewery,2,605 S Talbot St,St. Michaels,MD,38.7814,-76.2222,28750,3.547,3970.7817824074073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,Eddie McStiff's,United States,1,1,0,Brew Pub,4,57 South Main Street,Moab,UT,38.5727,-109.551,73,3.065,3921.331064814815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,Edelweissbrauerei Farny,Germany,0,1,23,Micro Brewery,2,Dürren 5,Kißlegg,Baden-Württemberg,47.7284,9.87126,8183,3.371,3974.9205208333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4799,Four Peaks Brewing Company,United States,0,0,268,Macro Brewery,1,1340 East 8th St,Tempe,AZ,33.4195,-111.916,327412,3.651,4024.653414351852,4,1,2,0,11,0,0,1,0,1,0,3,0,0,0,0,0,0
+480,Eder & Heylands Brauerei,Germany,0,1,41,Micro Brewery,2,Aschaffenburger Straße 3-5,Großostheim,Bayern,49.9227,9.0758,46910,3.326,3713.1622916666665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,Eel River Brewing Company,United States,0,1,58,Micro Brewery,2,1777 Alamar Way,Fortuna,CA,40.5793,-124.153,92728,3.614,4021.9235069444444,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,Egan Brewing,United States,1,1,31,Micro Brewery,2,330 Reid Street,De Pere,WI,44.4465,-88.0694,23,0,4023.5368518518517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,Einbecker Brauhaus,Germany,0,1,25,Micro Brewery,2,Papenstraße 4-7,Einbeck,Niedersachsen,51.8162,9.86431,91557,3.268,4016.129849537037,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+485,E.J. Phair Brewing Company,United States,0,1,121,Micro Brewery,2,2151 Salvio St,Concord,CA,37.9779,-122.035,14276,3.634,3923.8489699074075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,El Toro Brewing Company,United States,1,1,0,Brew Pub,4,17605 Monterey Rd,Morgan Hill,CA,37.1304,-121.655,7178,3.473,4019.0051273148147,3,2,0,0,1,0,0,0,0,0,0,4,0,3,0,2,0,0
+488,Eldridge,United States,1,1,0,Home Brewery,5,,,,0,0,5,0,3503.680648148148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4889,Free State Brewing Co.,United States,0,1,291,Micro Brewery,2,636 Massachusetts St,Lawrence,KS,38.9719,-95.2357,171791,3.648,4027.7578819444443,0,2,1,0,4,0,0,0,0,0,1,1,0,0,0,0,0,0
+489,Elgood’s Brewery,England,0,1,151,Micro Brewery,2,72 North Brink,Wisbech,Cambridgeshire,52.6613,0.150762,31609,3.416,3937.8809375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Guinness,Ireland,0,0,78,Macro Brewery,1,St James's Gate,Saint James' Gate,Leinster,53.3443,-6.28538,2534403,3.518,4043.4884722222223,5,3,0,0,5,0,0,0,0,0,0,13,0,10,0,0,0,0
+490,Elk Creek Cafe + Aleworks,United States,0,1,80,Brew Pub,4,100 West Main Street,Millheim,PA,40.8911,-77.477,19598,3.627,3987.6253125,1,2,0,1,2,1,0,0,0,0,0,5,0,4,1,0,0,0
+4904,Barley's Brewing Company (Brew Pub),United States,0,1,239,Brew Pub,4,467 North High Street,Columbus,OH,39.9719,-83.0029,49223,3.73,3983.558125,1,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4905,Schell's Brewery,United States,0,1,136,Regional Brewery,11,1860 Schell Road,New Ulm,MN,44.289,-94.4496,171828,3.521,4024.0040972222223,0,3,0,0,3,0,0,1,0,0,1,3,0,3,0,0,0,0
+491,Elk Grove Brewery & Restaurant,United States,1,1,0,Micro Brewery,2,9085 Elk Grove Blvd.,Elk Grove,CA,38.4091,-121.363,1,0,3605.8122453703704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,Big E Ales (Ellersick Brewing Co.),United States,1,1,0,Brew Pub,4,5030 208th St Sw #A,Lynnwood,WA,47.8099,-122.302,8322,3.551,3939.684849537037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4921,DuClaw Brewing Company,United States,0,1,80,Regional Brewery,11,8901 Yellow Brick Rd.,Baltimore,MD,39.3402,-76.4791,1089980,3.685,3988.7272222222223,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Ellicott Mills Brewing,United States,1,1,0,Micro Brewery,2,8308 Main Street,Ellicott City,MD,39.2681,-76.7997,8719,3.423,3954.013287037037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4936,Radeberger Gruppe,Germany,0,1,139,Macro Brewery,1,Darmstädter Landstraße 185,Frankfurt am Main,Hessen,50.0958,8.69188,736765,3.285,3997.653912037037,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+494,Elliott Bay Brewing Company,United States,0,1,141,Brew Pub,4,4720 California Ave SW,Seattle,WA,47.5604,-122.387,40194,3.632,3974.598773148148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,Elm City Brewing Company,United States,0,1,59,Brew Pub,4,222 West St. Unit 46,Keene,NH,42.9324,-72.2867,12261,3.588,3861.0788310185185,1,2,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0
+49894,Brauerei Schwelm ,Germany,0,1,12,Micro Brewery,2,,Schwelm,,51.2883,7.29109,288,3.422,3209.689965277778,0,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0
+499,Emery Pub,United States,0,1,2,Home Brewery,5,,,,0,0,0,0,3390.804351851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4997,Žatecký pivovar,Czech Republic,0,0,30,Regional Brewery,11,Žižkovo náměstí 81,Žatec,Jihovýchod,50.3322,13.5419,53152,2.931,3916.5202546296296,3,2,0,0,0,0,0,0,0,2,0,1,0,2,0,0,0,0
+5,Abbaye de Leffe,Belgium,0,0,30,Macro Brewery,1,Aarschotse Steenweg 20,Leuven,Vlaanderen,50.89,4.7072,1373450,3.533,4029.592210648148,2,8,1,0,4,0,0,4,0,1,0,3,0,2,0,0,0,0
+50,Asahi Breweries,Japan,0,1,204,Macro Brewery,1,1-23-1 Azumabashi,Sumida-ku,Tokyo,35.7098,139.8,351483,3.088,4010.097627314815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,Emmett's Brewing Co.,United States,0,1,190,Micro Brewery,2,110 N. Brockway St.,Palatine,IL,42.1129,-88.0465,40663,3.572,3993.715324074074,4,2,0,0,2,0,0,0,0,0,0,3,0,1,0,2,0,0
+501,Empyrean Brewing Co.,United States,0,1,203,Micro Brewery,2,729 Q St,Lincoln,NE,40.8155,-96.7105,129991,3.616,4025.6844212962965,0,2,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0
+503,Engel Brauerei,Germany,1,1,0,Micro Brewery,2,Engelgasse 2,Schwäbisch Gmünd,Baden-Württemberg,48.8016,9.79346,105,2.951,3831.989675925926,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,E9 Brewing Co.,United States,0,1,387,Micro Brewery,2,2506 Fawcett Avenue,Tacoma,WA,47.2382,-122.44,74464,3.86,4014.557175925926,1,4,0,3,4,0,0,1,0,1,1,3,0,1,0,0,0,0
+505,English Ales Brewery,United States,0,1,51,Micro Brewery,2,223-A Reindollar Ave,Marina,CA,36.6802,-121.804,15551,3.352,3995.746053240741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5055,Cervecería Hondureña,Honduras,0,0,10,Macro Brewery,1,Blvd. del Norte,San Pedro Sula,Cortés,15.5496,-88.0055,15499,2.989,3967.6863194444445,0,0,0,1,1,0,0,0,0,0,0,3,0,2,1,0,0,0
+506,Epic Brewing Company,New Zealand,0,1,139,Micro Brewery,2,186 James Fletcher Drive,Auckland,North Island,-36.9489,174.821,152119,3.899,3991.500613425926,0,1,0,0,2,0,0,0,0,1,0,5,0,1,0,0,0,0
+507,Erie Brewing Company,United States,0,1,242,Micro Brewery,2,1213 Veshecco Dr,Erie,PA,42.1114,-80.1129,165718,3.538,4018.828136574074,3,2,2,2,2,0,0,1,0,0,0,6,0,2,0,0,0,1
+508,Cross Plains Beer Company,United States,0,0,6,Micro Brewery,2,2109 Hickory Street,Cross Plains,WI,43.1147,-89.6531,3209,3.234,3937.788634259259,1,6,1,0,1,0,0,1,0,1,1,1,0,6,0,0,0,0
+509,Estes Park Brewery,United States,0,1,62,Micro Brewery,2,470 Prospect Village Dr.,Estes Park,CO,40.3714,-105.526,38505,3.464,3944.449375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,Etna Brewing,United States,0,1,40,Micro Brewery,2,131 Callahan,Etna,CA,41.4559,-122.846,2342,3.569,3691.9852662037038,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,Klosterbrauerei Ettal,Germany,0,1,22,Micro Brewery,2,Kaiser-Ludwig-Platz 1,Ettal,Bayern,47.569,11.0941,16634,3.648,4013.803171296296,0,1,0,0,2,0,0,0,0,0,0,0,0,9,0,0,0,0
+513,Far West Brewing Company,United States,1,1,1,Micro Brewery,2,7289 W Lake Sammamish Pkwy NE,Redmond,WA,47.6691,-122.129,62,4.11,4014.6951041666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,Fauerbach Brewing Company,United States,0,1,3,Micro Brewery,2,1714 Camus Lane,Madison,WI,43.0846,-89.4763,12,0,3441.6799768518517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,Faultline Brewing Company,United States,0,1,95,Micro Brewery,2,1235 Oakmead Pkwy,Sunnyvale,CA,37.3877,-121.993,15497,3.442,4016.6798958333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,Federation Brewery Ltd,England,1,1,0,Micro Brewery,2,"Lancaster Road, Dunston Industrial Estate",Gateshead,Tyne and Wear,54.9546,-1.65551,25,3.589,3419.850462962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,Felinfoel Brewery Co Ltd,Wales,0,1,40,Micro Brewery,2,"Farmers Row, Felinfoel",Llanelli,Carmarthenshire,51.6978,-4.14656,11426,3.252,3961.973622685185,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+520,FiftyFifty Brewing Co.,United States,0,1,275,Micro Brewery,2,11197 Brockway Road,Truckee,CA,39.322,-120.164,253328,4.161,3964.6142824074072,0,1,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,0
+5206,Fegley's Brew Works,United States,0,1,564,Micro Brewery,2,812 W. Hamilton Street,Allentown,PA,40.6013,-75.4739,218233,3.655,3963.365324074074,1,2,0,0,4,0,0,1,0,0,2,1,1,1,0,0,0,5
+521,Fire Station 1 Restaurant and Bar,United States,0,1,0,Bar / Restaurant / Store,7,8131 Georgia Avenue,Silver Spring,MD,38.9915,-77.0262,220,3.191,3606.3801157407406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5213,Brouwerij Omer Vander Ghinste,Belgium,0,1,16,Regional Brewery,11,Brouwtorenstraat 5,Bellegem,Vlaanderen,50.7771,3.27896,440483,3.698,4004.5950578703705,0,1,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0
+522,"Firehouse Brewing (San Diego, CA)",United States,1,1,5,Micro Brewery,2,10306 San Diego Mission Rd,San Diego,CA,32.7853,-117.111,80,3.006,3994.5909375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,Off The Rails Brewing Co.,United States,0,1,78,Brew Pub,4,111 S Murphy Ave,Sunnyvale,CA,37.3774,-122.03,7181,3.419,4016.7350462962963,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+524,Firestone Walker Brewing Company,United States,0,1,305,Regional Brewery,11,1400 Ramada Dr,Paso Robles,CA,35.5953,-120.694,3324652,3.942,4014.7260185185187,2,1,0,0,3,0,0,0,0,0,0,5,0,4,0,0,0,1
+525,First Coast Brewing,United States,1,1,0,Micro Brewery,2,111 Bryan Road,Wilmington,NC,34.1714,-77.9471,0,0,3417.1602662037035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,Fish Brewing Company,United States,0,1,85,Micro Brewery,2,515 Jefferson St SE,Olympia,WA,47.0437,-122.897,123138,3.48,4014.113796296296,1,1,0,0,2,0,0,0,0,0,0,4,0,1,0,0,0,0
+527,Fitger's Brewhouse,United States,0,1,395,Brew Pub,4,600 East Superior Street,Duluth,MN,46.7926,-92.0909,49592,3.756,4019.4143518518517,5,2,0,0,0,0,0,1,0,0,0,4,0,0,1,0,2,1
+528,Fitzpatrick's Brewing,United States,0,1,4,Home Brewery,5,,,,0,0,0,0,3415.770115740741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,Flagstaff Brewing Company,United States,0,1,63,Brew Pub,4,16 East Route 66,Flagstaff,AZ,35.1973,-111.648,10398,3.449,3972.6257175925925,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+53,Athenian Brewery,Greece,0,0,17,Macro Brewery,1,Λ.Κηφισού 102,Egaleo,Αττική,37.9784,23.6777,93003,2.979,3976.9670370370372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,Flat Branch Pub & Brewing,United States,0,1,167,Brew Pub,4,115 South 5th Street,Columbia,MO,38.9501,-92.332,21725,3.623,3982.0608333333334,1,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1
+531,Saint Paul Brewing Company (Formerly Flat Earth),United States,0,1,85,Micro Brewery,2,688 Minnehaha Ave E,St. Paul,MN,44.9626,-93.0716,43439,3.602,3991.7365856481483,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+532,Flatlander's Restaurant & Brewery,United States,1,1,0,Brew Pub,4,200 Village Green,Lincolnshire,IL,42.2027,-87.9309,48,0,3972.433923611111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+534,Flensburger Brauerei Emil Petersen,Germany,0,1,34,Regional Brewery,11,Munketoft 12,Flensburg,Schleswig-Holstein,54.7789,9.43581,207064,3.245,3994.5988657407406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,Carib Brewery USA,United States,0,1,248,Regional Brewery,11,200 Imperial Blvd.,Cape Canaveral,FL,28.3994,-80.6097,272828,3.459,3992.824097222222,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+536,Flossmoor Station Restaurant and Brewery,United States,0,1,143,Micro Brewery,2,1035 Sterling Avenue,Flossmoor,IL,41.543,-87.6788,30977,3.681,3987.6029282407408,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,Flour City Brewing,United States,1,1,0,Micro Brewery,2,869 E. Henrietta Road,Rochester,NY,43.1035,-77.6165,5,0,3599.3049189814815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,Flyers Restaurant and Brewery,United States,0,1,79,Micro Brewery,2,32295 State Route 20,Oak Harbor,WA,48.2991,-122.652,8640,3.518,3991.7361921296297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,Flying Bison Brewing,United States,0,0,181,Micro Brewery,2,840 Seneca St,Buffalo,NY,42.8758,-78.8458,75460,3.57,3988.8016087962965,0,2,0,0,5,0,0,0,0,1,1,1,0,0,0,0,0,0
+540,Flying Dog Brewery,United States,0,1,32,Regional Brewery,11,4607 Wedgewood Boulevard,Frederick,MD,39.3627,-77.4265,1937501,3.618,4021.5680902777776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+541,Flying Fish Brewing Co.,United States,0,1,627,Regional Brewery,11,900 Kennedy Ave,Somerdale,NJ,39.854,-75.0203,478737,3.616,4011.5044444444443,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+543,Foothills Brewing,United States,0,1,71,Regional Brewery,11,638 West Fourth St.,Winston-Salem,NC,36.0973,-80.2509,544772,3.784,4022.7298032407407,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+545,Fort Collins Brewery (FCB),United States,0,1,110,Micro Brewery,2,1020 East Lincoln Ave,Fort Collins,CO,40.5892,-105.059,165951,3.451,4022.901909722222,1,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+546,Foster's Group,Australia,0,0,35,Macro Brewery,1,Nelson St,Abbotsford,Victoria,-37.8093,145.003,175199,2.767,4023.1618402777776,1,2,0,0,3,0,0,0,0,0,0,1,0,7,0,1,0,0
+549,Founders Brewing Co.,United States,0,0,781,Macro Brewery,1,235 Grandville Ave SW,Grand Rapids,MI,42.9585,-85.6735,6720437,3.966,4022.8145833333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Atlantic Brewing Company,United States,0,1,80,Micro Brewery,2,15 Knox Rd,Bar Harbor,ME,44.3996,-68.3333,109787,3.577,4007.6507175925926,3,4,0,2,1,0,0,0,0,0,1,2,0,1,0,0,0,0
+550,Founders Hill Brewing,United States,1,1,0,Micro Brewery,2,5200 Main Street,Downers Grove,IL,41.7925,-88.0103,24,0,3981.6439814814817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,Freeminer Brewery Ltd.,England,1,1,0,Micro Brewery,2,Whimsey Road,Cinderford,Gloucestershire,51.8326,-2.51154,1499,3.158,3896.0718055555553,0,2,1,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0
+559,Front Street Brewery (NC),United States,0,1,130,Brew Pub,4,9 North Front Street,Wilmington,NC,34.2358,-77.9491,40771,3.63,3918.993101851852,1,2,0,0,4,0,0,0,0,1,2,0,0,0,0,0,0,0
+56,Atwater Brewery,United States,0,0,560,Regional Brewery,11,237 Jos Campau,Detroit,MI,42.3372,-83.0186,475332,3.579,4022.0079166666665,0,3,0,0,3,0,0,0,0,1,0,2,0,0,0,0,0,0
+560,Frontwaters Restaurant & Brewery,United States,1,1,1,Brew Pub,4,8620 E Bayshore Rd,Marblehead,OH,41.5044,-82.7688,3,0,3593.6448032407407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5631,Brauerei Königshof,Germany,0,1,20,Micro Brewery,2,Obergath 68,Krefeld,Nordrhein-Westfalen,51.3156,6.57134,12077,2.983,3934.1199421296296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,Fürstlich Fürstenbergische Brauerei,Germany,0,0,57,Micro Brewery,2,Postplatz 1-4,Donaueschingen,Baden-Württemberg,47.9516,8.50037,64730,3.191,3863.0223148148148,0,4,0,0,3,0,0,0,0,0,0,2,0,0,1,0,0,3
+566,Gaslight Brewery and Restaurant,United States,0,1,147,Brew Pub,4,15 S Orange Ave,South Orange,NJ,40.7465,-74.2594,5684,3.424,4018.2252314814814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,Bayerischer Bahnhof Gasthaus & Gosebrauerei,Germany,0,1,78,Micro Brewery,2,Bayrischer Platz 1,Leipzig,Sachsen,51.3289,12.3814,54224,3.67,3974.9631481481483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,Gasthaus-Brauerei Max & Moritz,Germany,0,1,22,Micro Brewery,2,Weinbichl 6,Kressbronn am Bodensee,Baden-Württemberg,47.6063,9.60581,953,3.469,4019.275462962963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,Hotel Brauerei Frohsinn,Switzerland,0,1,9,Contract Brewery,10,Romanshornerstrasse 15,Arbon,Thurgau,47.5171,9.42997,57,3.458,3919.235775462963,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+5719,Heineken Brasil,Brazil,0,0,23,Macro Brewery,1,Av. Eng. Alberto de Zagottis No. 352,São Paulo,São Paulo,-23.6693,-46.6956,134389,2.963,4031.559641203704,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+573,Gilde Brauerei,Germany,0,0,31,Macro Brewery,1,Hildesheimer Straße 132,Hanover,Niedersachsen,52.3544,9.75321,15583,3.106,3820.2046180555553,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+574,Glacial Lakes Brewing,United States,1,1,0,Micro Brewery,2,,New York Mills,MN,46.518,-95.3761,0,0,3591.1911111111112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5758,Klosterbrauerei Andechs,Germany,0,1,12,Micro Brewery,2,Bergstraße 2,Andechs,Bayern,47.9745,11.1829,169228,3.628,3974.6501041666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+576,Glen Ellyn Brewing Company,United States,1,1,0,Micro Brewery,2,433 North Main Street,Glen Ellyn,IL,41.8752,-88.0666,8,0,4023.1847222222223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,Glenwood Canyon Brewing Company,United States,0,1,166,Brew Pub,4,402 Seventh St,Glenwood Springs,CO,39.5477,-107.323,16727,3.678,3908.7326504629627,1,5,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+578,Gold Coast Brewery,Australia,0,1,18,Home Brewery,5,4/6 Indy Court,Nerang,QLD.,-28.0094,153.348,158,3.502,3940.674363425926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,Golden City Brewery,United States,0,1,64,Micro Brewery,2,920 12th St,Golden,CO,39.7546,-105.224,21788,3.665,4019.041516203704,0,1,1,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+582,Golden Pacific Brewing,United States,1,1,1,Micro Brewery,2,1404 Fourth St.,Berkeley,CA,37.8767,-122.303,61,3.297,3592.2869907407407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+584,Golden Valley Brewery and Pub,United States,0,1,174,Brew Pub,4,980 Northeast 4th St,McMinnville,OR,45.2103,-123.189,22898,3.577,3984.5317939814813,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,Holy Mackerel Small Batch Beers,United States,0,1,130,Micro Brewery,2,1414 NE 26th St,Wilton Manors,FL,26.1589,-80.1297,18571,3.551,3993.589525462963,0,1,0,0,2,0,1,0,0,0,0,2,0,2,0,0,0,0
+588,Gordon Biersch Brewing Company,United States,0,1,25,Regional Brewery,11,357 East Taylor Street,San Jose,CA,37.3533,-121.892,182085,3.433,4021.7385532407407,0,1,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1
+589,Gore Range Brewery,United States,0,1,104,Micro Brewery,2,105 Edwards Village Boulevard,Edwards,CO,39.6442,-106.596,5254,3.399,3929.8211689814816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Augusta Brewing Company,United States,0,1,149,Micro Brewery,2,5521 Water Street,Augusta,MO,38.5705,-90.8802,8857,3.513,3988.4661342592594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,Gottberg Brew Pub,United States,0,1,77,Micro Brewery,2,2804 13th Street,Columbus,NE,41.4295,-97.3625,1704,3.338,4019.250462962963,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+591,Govnor's Public House,United States,1,1,0,Micro Brewery,2,220 N. Randall Rd.,Lake In The Hills,IL,42.1778,-88.3362,28,3.79,4015.0452314814816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5939,Boscos Restaurant & Brewing Co.,United States,0,1,192,Brew Pub,4,2120 Madison Avenue,Memphis,TN,35.1369,-89.9906,14862,3.475,3966.5546180555557,2,4,0,1,9,0,0,0,0,0,2,6,0,2,0,0,0,0
+597,Granville Island Brewing,Canada,0,0,319,Macro Brewery,1,1441 Cartwright St,Vancouver,BC,49.2705,-123.136,208463,3.441,4018.576145833333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+599,Gray Brewing Company (WI),United States,0,1,95,Micro Brewery,2,2424 W Court St.,Janesville,WI,42.6795,-89.0506,23110,3.337,4011.6953935185184,2,1,0,0,3,0,0,0,0,0,0,1,0,1,0,0,0,0
+6,Abbaye de Maredsous,Belgium,0,0,5,Macro Brewery,1,Breendonk-Dorp 66,Breendonk,Vlaanderen,51.0433,4.32604,287237,3.65,4004.5812268518516,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,Great Bear Brewing,United States,0,1,8,Home Brewery,5,,,,0,0,42,3.402,3600.931215277778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6037,Brauerei Bischofshof,Germany,0,1,33,Micro Brewery,2,Heitzerstraße 2,Regensburg,Bayern,49.0144,12.075,21869,3.347,3934.533645833333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,Great Divide Brewing Company,United States,0,1,536,Regional Brewery,11,2201 Arapahoe St,Denver,CO,39.7538,-104.988,1583050,3.777,4024.886678240741,0,7,0,0,7,0,0,0,0,0,0,1,0,6,0,0,0,0
+6052,Half Moon Bay Brewing Company,United States,0,1,373,Micro Brewery,2,390 Capistrano Road,Half Moon Bay,CA,37.5039,-122.486,52011,3.695,4022.066724537037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,Great Northern Tavern and Brewery (Colorado),United States,1,1,0,Micro Brewery,2,91 River Run Rd,Keystone,CO,39.6068,-105.945,6,0,3760.761736111111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,Great Waters Brewing Company,United States,1,1,0,Micro Brewery,2,426 St Peter St,St. Paul,MN,44.9467,-93.097,14248,3.506,3954.910127314815,2,3,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+608,Hinterland Brewery,United States,0,1,246,Micro Brewery,2,1001 Lombardi Ave.,Green Bay,WI,44.5191,-88.0196,150908,3.602,4021.271030092593,0,2,0,0,2,0,0,1,0,0,0,4,0,2,0,0,0,0
+609,Green Flash Brewing Company,United States,0,1,626,Regional Brewery,11,6550 Mira Mesa Blvd.,San Diego,CA,32.9073,-117.178,1602418,3.78,4029.880428240741,0,0,0,0,1,0,0,1,0,0,1,1,0,2,0,0,0,0
+610,Green Mill Brewing (MN),United States,0,1,3,Bar / Restaurant / Store,7,57 South Hamline,St. Paul,MN,44.9399,-93.157,20,3.85,4020.7157060185186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,Woodchuck Cidery,United States,0,0,22,Cidery,8,1321 Exchange St.,Middlebury,VT,44.0358,-73.1662,343043,3.46,4030.865752314815,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+612,Greene King,England,0,1,204,Macro Brewery,1,Westgate Street,Bury St Edmunds,Suffolk,52.2411,0.714876,624135,3.248,4037.82712962963,1,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+613,Greenshields Brewery and Pub,United States,1,1,0,Micro Brewery,2,214 E. Martin St,Raleigh,NC,35.7765,-78.636,22,0,3792.994050925926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,Grizzly Bay Brewing,United States,1,1,0,Micro Brewery,2,325 Main Street,Suisun City,CA,38.2418,-122.041,0,0,3392.1344791666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,Grizzly Peak Brewing Company,United States,0,1,521,Brew Pub,4,120 West Washington,Ann Arbor,MI,42.2808,-83.7496,32733,3.519,3939.7621875,1,3,0,0,1,0,0,1,0,0,0,2,0,0,1,0,0,0
+617,"Grumpy Troll Brewery, Restaurant and Pizzeria",United States,0,1,129,Micro Brewery,2,105 S. 2nd Street,Mount Horeb,WI,43.0081,-89.7383,28970,3.554,3938.3967939814816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+618,Grupo Modelo,Mexico,0,0,96,Macro Brewery,1,Carretera 57 Km 233.2 85,Nava,Coahuila de Zaragoza,28.5769,-100.597,1809924,3.098,4044.6283333333336,0,0,0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,0
+619,Gulpener Bierbrouwerij,Netherlands,0,1,318,Macro Brewery,1,Rijksweg 16,Gulpen,Limburg,50.8144,5.89074,742186,3.337,3974.7416435185187,1,2,0,0,1,0,0,0,0,0,0,4,0,23,0,0,0,1
+62,Avery Brewing Co.,United States,0,0,564,Macro Brewery,1,4910 Nautilus Ct,Boulder,CO,40.0625,-105.205,2169553,3.893,4032.3747569444445,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+620,Jopen,Netherlands,0,1,302,Micro Brewery,2,Gedempte Voldersgracht 2,Haarlem,Noord-Holland,52.3812,4.62982,1727195,3.555,3993.8659837962964,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0
+622,Hair of the Dog Brewing Company,United States,0,1,195,Micro Brewery,2,61 SE Yamhill St,Portland,OR,45.5159,-122.666,162244,3.916,4009.009270833333,4,3,0,0,2,0,0,1,0,0,1,2,0,1,0,3,0,0
+625,Ham's Restaurant and Brewhouse,United States,1,1,0,Micro Brewery,2,701 S. Evans St.,Greenville,NC,35.6086,-77.3737,0,0,3599.4816550925925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,Hambleton Brewery,England,0,1,36,Micro Brewery,2,Melmerby Green Rd,Melmerby,North Yorkshire,54.1737,-1.48114,11531,3.505,3944.1555902777777,1,3,0,0,0,0,0,0,0,0,0,4,0,3,0,0,0,0
+627,Hampshire Brewery,England,1,1,0,Micro Brewery,2,"Hampshire « Brewers in Romsey « Hampshire Brewery Ltd Hampshire Brewery Ltd Unit 6-8 / Romsey Industrial Estate, Greatbridge Road",Romsey,Hampshire,50.9962,-1.49707,59,3.221,3582.1525694444445,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Back Road Brewery,United States,1,1,0,Micro Brewery,2,308 Perry St.,LaPorte,IN,41.6124,-86.7268,3164,3.511,4010.4747800925925,0,3,0,0,4,0,0,0,0,0,1,0,0,2,0,0,0,0
+630,Hanssens Artisanaal,Belgium,0,1,17,Micro Brewery,2,Vroenenbosstraat 15,Dworp,Vlaanderen,50.7288,4.29719,110299,3.959,3993.6413773148147,2,3,0,1,3,0,0,0,0,0,0,3,0,19,0,0,0,2
+6308,The Blue Ridge Brewing Company,United States,0,1,57,Brew Pub,4,308 Trade St.,Greer,SC,34.9361,-82.2263,4996,3.475,3932.6462037037036,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0
+631,Hapa's Brew Haus and Restaurant,United States,1,1,0,Micro Brewery,2,41 E Lipoa St,Kihei,HI,20.7479,-156.454,8,0,4017.793587962963,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,Harbor City Brewing Company,United States,1,1,0,Micro Brewery,2,535 West Grand Avenue,Port Washington,WI,43.3866,-87.8809,136,3.457,3955.1922453703705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,Harmon Brewing Company,United States,0,1,282,Micro Brewery,2,1938 Pacific Ave S.,Tacoma,WA,47.2436,-122.437,26628,3.573,3976.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,Harpoon Brewery,United States,0,0,792,Regional Brewery,11,306 Northern Avenue,Boston,MA,42.3465,-71.0344,1296420,3.546,4030.824050925926,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,2
+6353,Brauerei Grieskirchen,Austria,0,1,30,Regional Brewery,11,Stadtplatz 14,Grieskirchen,Oberösterreich,48.2352,13.8292,15410,3.341,4013.116400462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,Harvest Moon Brewery (New Jersey),United States,0,1,305,Micro Brewery,2,392 George St,New Brunswick,NJ,40.4962,-74.4443,20716,3.659,4011.8097453703704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,Harviestoun Brewery,Scotland,0,1,85,Micro Brewery,2,Alva Industrial Estate,Alva,Clackmannanshire,56.1241,-3.75838,264511,3.712,4004.8474537037036,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Backcountry Brewery,United States,1,0,0,Micro Brewery,2,720 Main Street,Frisco,CO,39.5752,-106.103,26207,3.628,3981.467777777778,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+65,Wellington's Backwater Brewing Company,United States,1,1,0,Brew Pub,4,1429 West Service Dr,Winona,MN,44.0483,-91.6771,65,3.483,3825.465636574074,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+653,The Herkimer Pub & Brewery,United States,1,1,0,Brew Pub,4,2922 Lyndale Ave South,Minneapolis,MN,44.9492,-93.2881,11475,3.494,3990.6894560185187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Bad Frog Brewery Company,United States,1,1,0,Micro Brewery,2,PO Box 310,Rose City,MI,44.4214,-84.1167,149,2.045,3903.1809606481484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Ballast Point Brewing Company,United States,0,0,1465,Regional Brewery,11,9045 Carroll Way,San Diego,CA,32.8882,-117.158,3760686,3.773,4022.4752662037035,0,1,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0
+69,Baltimore-Washington Beer Works,United States,0,1,16,Micro Brewery,2,PO Box 9829,Baltimore,MD,39.2904,-76.6122,54740,3.508,3972.566736111111,0,4,0,0,15,0,0,2,0,2,2,5,0,9,1,0,0,0
+6975,Beach Chalet Pub and Brewery,United States,0,1,140,Brew Pub,4,1000 Great Highway,San Francisco,CA,37.7695,-122.51,13491,3.337,3920.674270833333,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+71,Bandana Brewery,United States,1,1,0,Micro Brewery,2,302 N Plainfield Ave,Mankato,MN,44.1636,-93.9994,2,0,3876.266111111111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7132,BJ's Restaurant & Brewhouse,United States,0,1,386,Regional Brewery,11,7755 Center Avenue,Huntington Beach,CA,33.7348,-117.995,583216,3.567,4023.510752314815,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7192,Reaver Beach Brewing Company,United States,0,1,189,Micro Brewery,2,1505 Taylor Farm Rd #401,Virginia Beach,VA,36.7954,-76.0641,75338,3.874,3949.1174421296296,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7214,Wind River Brewing Company,United States,0,1,68,Micro Brewery,2,402 Pine Street,Pinedale,WY,42.8666,-109.866,9032,3.598,3914.7700578703702,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+7294,Elysian Brewing Company,United States,0,0,706,Macro Brewery,1,5410 Airport Way S.,Seattle,WA,47.5532,-122.32,1377147,3.747,4008.720277777778,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+73,Bard's Tale Beer Company,United States,0,1,2,Micro Brewery,2,5125 West 59th Street,Edina,MN,44.8959,-93.3555,8997,2.703,3992.9167592592594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7339,Boundary Bay Brewery,United States,0,1,271,Brew Pub,4,1107 Railroad Ave,Bellingham,WA,48.7475,-122.481,62232,3.684,3985.776365740741,2,4,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,3
+7393,Bonfire Brewing,United States,0,1,98,Micro Brewery,2,127 Second St,Eagle,CO,39.6553,-106.827,49855,3.64,3911.5920023148146,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+7444,RAM Restaurant & Brewery / C.B. & Potts,United States,0,1,1718,Micro Brewery,2,10013 59th Ave SW,Lakewood,WA,47.1659,-122.514,159521,3.616,4020.1906018518516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7460,Chicago Brewing Company,United States,0,1,125,Brew Pub,4,2201 S. Fort Apache,Las Vegas,NV,36.1476,-115.298,19525,3.365,3961.712395833333,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+7461,Privat-Brauerei Heinrich Reissdorf ,Germany,0,1,3,Regional Brewery,11,Emil-Hoffmann-Straße 4-10,Cologne,Nordrhein-Westfalen,50.8753,6.99444,77846,3.493,3998.810023148148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Barley Brothers Restaurant & Brewery,United States,0,1,55,Micro Brewery,2,1425 McCulloch Blvd,Lake Havasu City,AZ,34.4702,-114.35,4963,3.43,3803.7449652777777,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+76,Barley Creek Brewing Company,United States,0,1,321,Micro Brewery,2,Sullivan Trail Rd,Tannersville,PA,41.0398,-75.3057,46079,3.547,3939.726678240741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7673,Big Ridge Brewing,Canada,0,1,274,Brew Pub,4,5580 152nd St,Surrey,BC,49.1038,-122.801,5254,3.561,4024.2385648148147,0,4,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+7682,Harvey's Brewery,England,0,1,62,Micro Brewery,2,4 -6 Cliffe High Street,Lewes,East Sussex,50.8742,0.0174277,54278,3.441,3994.2403935185184,0,1,0,0,2,0,0,1,0,1,1,2,0,1,0,1,0,0
+77,Barley Island Brewing Company,United States,0,1,84,Micro Brewery,2,639 Conner Street,Noblesville,IN,40.0455,-86.0154,15251,3.461,4025.1319907407405,1,2,0,0,6,0,0,2,0,0,0,2,0,0,0,0,0,0
+7739,Alpirsbacher Klosterbräu,Germany,0,1,50,Micro Brewery,2,Marktplatz 1,Alpirsbach,Baden-Württemberg,48.3457,8.40305,68400,3.423,3901.9752546296295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7778,Brouwerij Van Steenberge,Belgium,0,1,1224,Micro Brewery,2,Lindenlaan 25,Ertvelde,Vlaanderen,51.1766,3.74617,1339908,3.67,4018.6252314814815,0,3,0,1,1,0,0,0,0,3,0,0,0,5,1,0,0,0
+78,Barley John's Brewpub,United States,0,1,234,Brew Pub,4,781 Old Highway 8 SW,New Brighton,MN,45.0361,-93.1987,12684,3.814,4025.325775462963,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0
+7967,Pittsburgh Brewing Company,United States,0,1,29,Regional Brewery,11,3340 Liberty Avenue,Pittsburgh,PA,40.461,-79.9653,64235,2.911,4026.0237962962965,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+8,Abbey Wright Brewing Company,United States,1,1,0,Micro Brewery,2,204 Valley Street,Duboistown,PA,41.2225,-77.0369,244,2.823,3860.6415625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8041,Great Dane Pub & Brewing Company,United States,0,1,539,Brew Pub,4,123 E. Doty Street,Madison,WI,43.0744,-89.3801,100012,3.568,4018.3029976851853,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+81,Barley's Casino & Brewing Company,United States,0,1,34,Micro Brewery,2,4500 E Sunset Rd.,Henderson,NV,36.0723,-115.077,2784,3.271,3981.13380787037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8151,Batemans,England,0,1,48,Macro Brewery,1,"Salem Bridge Brewery, Mill Ln",Wainfleet All Saints,Lincolnshire,53.1044,0.232227,50071,3.401,3987.6988541666665,4,4,0,0,4,0,0,0,0,3,2,8,0,4,0,0,0,0
+82,Baron Brewing,United States,1,1,1,Micro Brewery,2,1605 South 93rd Street,Seattle,WA,47.5203,-122.312,89,3.133,4008.5640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Basil T's Brew Pub and Italian Grill,United States,1,1,0,Micro Brewery,2,183 Riverside Avenue,Red Bank,NJ,40.3532,-74.0747,727,3.278,3923.4880555555555,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8444,Augustiner-Bräu München,Germany,0,1,8,Micro Brewery,2,Landsberger Straße 31-35,Munich,Bayern,48.1385,11.5447,264105,3.649,3991.41900462963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Bass Brewers,England,0,0,26,Macro Brewery,1,Cuerdale Ln,Shamlesbury,Lancashire,53.7622,-2.6113,123401,3.314,4041.403854166667,1,4,0,0,6,1,0,1,0,0,0,5,0,5,0,0,0,0
+8502,Granite City,United States,0,1,255,Micro Brewery,2,1595 Highway 36 W,Minneapolis,MN,45.0134,-93.1723,193411,3.441,3987.6947800925927,2,1,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0
+8516,Brouwerij Sterkens,Belgium,0,1,46,Micro Brewery,2,Wenenstraat 9,Meer,Vlaanderen,51.4728,4.72552,39831,3.468,4005.511678240741,1,1,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0
+86,Cervecería Bavaria,Colombia,0,0,60,Macro Brewery,1,Calle 94 # 7ª-47,Bogotá,Distrito Capital,4.71736,-74.0987,61667,2.867,3998.0719328703703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8612,The Dux Brewing Co.,New Zealand,0,1,18,Micro Brewery,2,"6 Poplar Street,",Christchurch,Canterbury,-43.5346,172.641,1472,3.492,3882.7550694444444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Bavarian Barbarian Brewing Company,United States,1,1,6,Micro Brewery,2,429 W 3rd St,Williamsport,PA,41.238,-77.0103,234,3.342,3987.5990162037037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Bayerische Staatsbrauerei Weihenstephan,Germany,0,1,21,Regional Brewery,11,Alte Akademie 2,Freising,Bayern,48.3953,11.7289,960117,3.724,4024.470613425926,1,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+89,Bayern Brewing,United States,0,1,50,Micro Brewery,2,1507 Montana St.,Missoula,MT,46.8726,-114.02,41385,3.592,3968.37625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Beamish & Crawford Plc.,Ireland,1,0,0,Micro Brewery,2,Leitrim Street,Cork,Munster,51.9037,-8.47246,155,3.397,4023.818125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9383,ABK (Aktienbrauerei Kaufbeuren),Germany,0,1,45,Micro Brewery,2,Hohe Buchleuthe 3,Kaufbeuren,Bayern,47.8781,10.6161,70840,3.372,3974.2629398148147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Bear Republic Brewing Co.,United States,0,1,314,Regional Brewery,11,5000 Roberts Lake Road,Rohnert Park,CA,38.365,-122.71,669670,3.8,4029.5373842592594,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+940,Fordham & Dominion Brewing Co.,United States,0,1,254,Regional Brewery,11,1284 McD Dr.,Dover,DE,39.154,-75.4884,293035,3.529,4024.793090277778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Brauerei Beck,Germany,0,0,45,Macro Brewery,1,Am Deich 18/19,Neustadt,Bremen,53.0768,8.79237,386156,2.921,4023.8859953703704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Beermann's Brewery Co ,United States,0,1,12,Brew Pub,4,645 fifth Street,Lincoln,CA,38.8916,-121.292,96,3.597,3592.9727314814813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+963,Pabst Brewing Company,United States,0,0,281,Macro Brewery,1,"110 E Houston St, San Antonio, TX 78205",San Antonio,TX,29.4263,-98.4935,830107,2.919,4043.750509259259,1,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+97,Belfast Bay Brewing Company,United States,0,1,4,Micro Brewery,2,100 Searsport Ave.,Belfast,ME,44.4295,-68.975,23204,3.315,4007.7298958333336,0,1,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+972,Paulaner Brauerei,Germany,0,1,83,Macro Brewery,1,Mälzereistraße 31,Munich,Bayern,48.1775,11.4326,1050626,3.558,4034.711712962963,1,2,0,0,6,0,1,0,0,1,0,0,0,0,0,0,0,0
+98,Belhaven Brewery,Scotland,0,0,133,Regional Brewery,11,Spott Rd,Dunbar,East Lothian,55.9933,-2.50964,453181,3.478,4038.744212962963,1,4,0,0,3,0,0,0,0,1,0,1,0,1,0,0,0,0
